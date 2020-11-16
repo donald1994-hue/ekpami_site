@@ -1,0 +1,364 @@
+
+/*import fronts from font.css file*/
+@import url(./font.css);
+
+
+
+
+/**       *************************
+
+                STYLE GENERALE
+
+          **************************
+          *
+  */
+  *{
+    margin:0px;
+    padding:0px;
+    font-family:"Roboto";
+  }
+
+	ul li {
+		list-style: none;
+	}
+	ul li  a:hover{
+	color: red;
+	transition: 0.7s;
+	}
+
+  /**       *************************
+
+                FIN STYLE GENERALE
+
+            **************************
+            *
+    */
+
+	 .texte img{
+		 height: 70px;
+		 width:100px;
+	 }
+	 p{
+		 font-size: 15px;
+	 }
+
+   .tiret{
+     width:100%;
+     height: 5px;
+     background-color: black;
+   }
+
+   .pub{
+     width:100%;
+     height: 100px;
+     background-image: url('../../resources/img/pubenakpami.png');
+   }
+
+
+    /**       *************************
+
+            STYLE ANIMATION DANS LA NAVIGATION
+
+              **************************
+              *
+      */
+
+  .marquee-rtl {
+  max-width: 100em;
+  color: white;
+
+  overflow: hidden;
+
+  }
+  /* le bloc défilant */
+  .marquee-rtl > :first-child {
+    display: inline-block;
+    padding-right: 2em;
+
+    white-space: nowrap;
+    animation: defilement-rtl 15s infinite linear;
+  }
+
+  @keyframes defilement-rtl {
+    0% {
+      transform: translate3d(0,0,0);
+    }
+    100% {
+      transform: translate3d(-100%,0,0);
+    }
+  }
+  ul li a strong{
+  color:#e20812;
+  }
+
+
+  /**       *************************
+
+     FIN  STYLE ANIMATION DANS LA NAVIGATION
+
+            **************************
+            *
+    */
+
+
+/**       *************************
+
+           STYLE PAGE REPERTOIRE 2020
+
+          **************************
+          *
+  */
+  .column-layout{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+			margin-top: 10px;
+  }
+  .main-column
+  {
+    display:flex;
+    order:2;
+    flex:4;
+  }
+  .sidebar-one
+  {
+    margin:0px;
+    padding:0px;
+    order:1;
+    flex:1;
+  }
+  .sidebar-two
+  {
+    order:3;
+    flex:1;
+  }
+
+  .main-column .sommaire
+  {
+
+		background-image: url('../../resources/img/fond1.png');
+		background-size: cover;
+  }
+
+  .main-column .main-sous-contenu
+  {
+    order:2;
+    flex:5;
+  }
+
+	.main-column .sommaire
+	{
+		width:250px;
+		height: 500px;
+		text-align: justify;
+
+		overflow: auto;
+		background-color:
+	}
+
+		.main-column .sommaire .nav-pills a{
+			font-size: 14px;
+			color: black;
+			font-size: bold;
+
+
+		}
+
+		.main-column .sommaire .nav-pills a:hover{
+
+			font-weight: bold;
+			color: red;
+			transition: 0.7s;
+		}
+		.main-column .sommaire .nav-pills a:after{
+			font-weight: bold;
+		}
+		.main-column .main-sous-contenu .alibori_artiste{
+			display:flex;
+			justify-content: center;
+
+		}
+		.main-column .main-sous-contenu .alibori_artiste .alibori_main{
+			margin-right: 40px;
+		}
+
+		.main-column .main-sous-contenu .alibori_artiste p{
+			font-size: 10px;
+		}
+
+		.main-column .main-sous-contenu .alibori_artiste img{
+			width:60px;
+		}
+
+		.artiste-content{
+			text-align: justify;
+			font-size: 13px;
+		}
+		.artiste-content-traduction{
+			color: #53a5cb;
+		}
+
+		.identités{
+			display: flex;
+			justify-content: space-between;
+		}
+		.identités img{
+
+			width: 80px;
+		}
+
+	.artiste-content .identités{
+		display: flex;
+	}
+		.identités h2{
+			margin-top: 20px;
+			font-size: 45px;
+		}
+
+
+  /**       *************************
+
+          FIN STYLE PAGE REPERTOIRE 2020
+
+            **************************
+            *
+    */
+
+
+
+    /**       *************************
+
+      MEDIA RESPONSIVE PAGE REPERTOIRE 2020
+
+              **************************
+              *
+      */
+
+  @media  (max-width: 576px)
+  {
+    .column-layout{
+        flex-direction: column;
+    }
+
+    .main-column
+    {
+      order:1;
+
+    }
+    .sidebar-one
+    {
+      order:3;
+
+    }
+    .sidebar-two
+    {
+      order:2;
+
+    }
+
+		.main-column .main-sous-contenu .alibori_artiste{
+		flex-direction: column;
+		justify-content: center;
+		margin-left: 45%;
+
+		}
+		.main-column .main-sous-contenu .alibori_artiste .alibori_main{
+			margin-right: 0px;
+		}
+
+		.artiste-content img{
+			float: left;
+
+		}
+		.identités h2{
+
+			font-size: 30px;
+		}
+
+  }
+  @media (max-width: 768px)
+  {
+		.identités h2{
+
+			font-size: 30px;
+		}
+    .column-layout{
+        flex-direction: column;
+    }
+
+    .main-column
+    {
+      order:1;
+
+    }
+    .sidebar-one
+    {
+      order:3;
+
+    }
+    .sidebar-two
+    {
+      order:2;
+
+    }
+
+		.main-column .main-sous-contenu .alibori_artiste{
+		flex-direction: column;
+		justify-content: center;
+
+		}
+		.main-column .main-sous-contenu .alibori_artiste .alibori_main{
+			margin-right: 0px;
+		}
+		.artiste-content img{
+			float: left;
+
+		}
+  }
+  @media  (max-width: 992px)
+  {
+		.identités h2{
+
+			font-size: 30px;
+		}
+    .column-layout{
+        flex-direction: column;
+    }
+
+    .main-column
+    {
+      order:1;
+
+    }
+    .sidebar-one
+    {
+      order:3;
+
+    }
+    .sidebar-two
+    {
+      order:2;
+
+    }
+		.main-column .main-sous-contenu .alibori_artiste{
+			flex-direction: column;
+			justify-content: center;
+
+		}
+		.main-column .main-sous-contenu .alibori_artiste .alibori_main{
+			margin-right: 0px;
+		}
+		.artiste-content img{
+			float: left;
+
+		}
+  }
+
+
+  /**       *************************
+
+    MEDIA RESPONSIVE PAGE REPERTOIRE 2020
+
+            **************************
+            *
+    */
