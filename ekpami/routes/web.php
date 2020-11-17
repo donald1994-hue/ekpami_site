@@ -483,9 +483,39 @@ Route::get('/issaou', function () {
 |--------------------------------------------------------------------------
 
 */
+
+
 Route::get('/indexcolline', function () {
     return view('colline2020.indexcolline');
 });
+
+Route::get('/agossa', function () {
+    return view('colline2020.agossa');
+});
+
+Route::get('/divin', function () {
+    return view('colline2020.divin');
+});
+
+Route::get('/Latifou', function () {
+    return view('colline2020.Latifou');
+});
+
+Route::get('/Sébastien Hessou', function () {
+    return view('colline2020.Sébastien Hessou');
+});
+
+Route::get('/Jean', function () {
+    return view('colline2020.Jean');
+});
+
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes DU REPERTOIRE 2020
+|--------------------------------------------------------------------------
+
+*/
 Route::get('/indexcouffo', function () {
     return view('couffo2020.indexcouffo');
 });

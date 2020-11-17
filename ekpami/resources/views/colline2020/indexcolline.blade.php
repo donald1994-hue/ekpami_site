@@ -13,11 +13,11 @@
     <div class="col-md-3"></div>
     <div class="col-md-6" style="padding-top: 10px;font-size: 15px;">
       <ul>
-        <li> <a href="#" style="text-decoration: none; ">DIVIN J’X AGOSSA  </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">FELIX AGOSSA  </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">SEBASTIEN HESSOU  </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">BACHIROU LATIFOU </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">JEAN FEDEGNON ONI</a> </li>
+        <li> <a href="divin" style="text-decoration: none; ">DIVIN J’X AGOSSA  </a> </li>
+        <li> <a href="agossa" style="text-decoration: none; ">FELIX AGOSSA  </a> </li>
+        <li> <a href="Sébastien Hessou" style="text-decoration: none; ">SEBASTIEN HESSOU  </a> </li>
+        <li> <a href="Latifou" style="text-decoration: none; ">BACHIROU LATIFOU </a> </li>
+        <li> <a href="Jean" style="text-decoration: none; ">JEAN FEDEGNON ONI</a> </li>
       </ul>
     </div>
     <div class="col-md-3"></div>
