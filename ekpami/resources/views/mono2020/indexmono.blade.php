@@ -12,19 +12,19 @@
   <div class="row">
     <div class="col-md-6" style="padding-top: 10px;font-size: 17px;">
       <ul>
-        <li> <a href="#" style="text-decoration: none; ">ASOSSOU  </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">ATHENA   </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">PASCAL YAOVI BATTAH   </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">DESIRE DEGNISSODE   </a> </li>
+        <li> <a href="Asossou" style="text-decoration: none; ">ASOSSOU  </a> </li>
+        <li> <a href="Athéna" style="text-decoration: none; ">ATHENA   </a> </li>
+        <li> <a href="Pascal Yaovi Battah" style="text-decoration: none; ">PASCAL YAOVI BATTAH   </a> </li>
+        <li> <a href="DésiréDegnissodé" style="text-decoration: none; ">DESIRE DEGNISSODE   </a> </li>
 
       </ul>
     </div>
     <div class="col-md-6" style="padding-top: 10px;font-size: 17px;">
       <ul>
-        <li> <a href="#" style="text-decoration: none; ">PARFAIT GBOGBE   </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">LUCAS VIHO KAKPO  </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">MARC LOCOH    </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">MONEL COOVI DOMINGO  </a> </li>
+        <li> <a href="Parfait Gbogbé" style="text-decoration: none; ">PARFAIT GBOGBE   </a> </li>
+        <li> <a href="Lucas Viho Kakpo" style="text-decoration: none; ">LUCAS VIHO KAKPO  </a> </li>
+        <li> <a href="Marc Locoh" style="text-decoration: none; ">MARC LOCOH    </a> </li>
+        <li> <a href="Monel Coovi Domingo" style="text-decoration: none; ">MONEL COOVI DOMINGO  </a> </li>
 
       </ul>
     </div>

@@ -525,17 +525,217 @@ Route::get('/indexdonga', function () {
 Route::get('/indexlittoral', function () {
     return view('littoral2020.indexlittoral');
 });
+
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes DU REPERTOIRE 2020
+|--------------------------------------------------------------------------
+
+*/
 Route::get('/indexmono', function () {
     return view('mono2020.indexmono');
 });
+
+Route::get('/Asossou', function () {
+    return view('mono2020.Asossou');
+});
+
+Route::get('/Athéna', function () {
+    return view('mono2020.Athéna');
+});
+
+
+Route::get('/Pascal Yaovi Battah', function () {
+    return view('mono2020.Pascal Yaovi Battah');
+});
+Route::get('/DésiréDegnissodé', function () {
+    return view('mono2020.DésiréDegnissodé');
+});
+
+Route::get('/Monel Coovi Domingo', function () {
+    return view('mono2020.Monel Coovi Domingo');
+});
+
+Route::get('/Parfait Gbogbé', function () {
+    return view('mono2020.Parfait Gbogbé');
+});
+
+Route::get('/Lucas Viho Kakpo', function () {
+    return view('mono2020.Lucas Viho Kakpo');
+});
+
+
+Route::get('/Marc Locoh', function () {
+    return view('mono2020.Marc Locoh');
+});
+
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes DU REPERTOIRE 2020
+|--------------------------------------------------------------------------
+
+*/
 Route::get('/indexzou', function () {
     return view('zou2020.indexzou');
 });
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes DU REPERTOIRE 2020
+|--------------------------------------------------------------------------
+
+*/
 
 Route::get('/indexplateau', function () {
     return view('plateau2020.indexplateau');
 });
 
+
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes DU REPERTOIRE 2020
+|--------------------------------------------------------------------------
+
+*/
+
 Route::get('/indexoueme', function () {
     return view('oueme2020.indexoueme');
 });
+
+Route::get('/François Ablefonlin', function () {
+    return view('oueme2020.François Ablefonlin');
+});
+Route::get('/Océane Adjovi', function () {
+    return view('oueme2020.Océane Adjovi');
+});
+
+Route::get('/Agounnon', function () {
+    return view('oueme2020.Agounnon');
+});
+
+
+Route::get('/Simplice Ahouansou', function () {
+    return view('oueme2020.Simplice Ahouansou');
+});
+
+Route::get('/DonatienALIHONOU', function () {
+    return view('oueme2020.DonatienALIHONOU');
+});
+
+Route::get('/Asprina', function () {
+    return view('oueme2020.Asprina');
+});
+
+
+Route::get('/Ochosias Axel Badou', function () {
+    return view('oueme2020.Ochosias Axel Badou');
+});
+
+Route::get('/Bignon', function () {
+    return view('oueme2020.Bignon');
+});
+
+Route::get('/ThéodoreDakpogan', function () {
+    return view('oueme2020.ThéodoreDakpogan');
+});
+
+Route::get('/Désiré Dédéhouanou', function () {
+    return view('oueme2020.Désiré Dédéhouanou');
+});
+Route::get('/Sènami Donoumassou', function () {
+    return view('oueme2020.Sènami Donoumassou');
+});
+
+Route::get('/Youchaou Kiffouly', function () {
+    return view('oueme2020.Youchaou Kiffouly');
+});
+
+Route::get('/Syl', function () {
+    return view('oueme2020.Syl');
+});
+
+
+Route::get('/Maria', function () {
+    return view('oueme2020.Maria');
+});
+
+Route::get('/Mehomez', function () {
+    return view('oueme2020.Mehomez');
+});
+
+Route::get('/Nassara', function () {
+    return view('oueme2020.Nassara');
+});
+
+Route::get('/Rebecca', function () {
+    return view('oueme2020.Rebecca');
+});
+
+Route::get('/Louis', function () {
+    return view('oueme2020.Louis');
+});
+
+Route::get('/Rafiy', function () {
+    return view('oueme2020.Rafiy');
+});
+
+Route::get('/Laurent', function () {
+    return view('oueme2020.Laurent');
+});
+
+Route::get('/Louis d’Oliveira', function () {
+    return view('oueme2020.Louis d’Oliveira');
+});
+Route::get('/Bertille Senou', function () {
+    return view('oueme2020.Bertille Senou');
+});
+
+Route::get('/Uncle Sam', function () {
+    return view('oueme2020.Uncle Sam');
+});
+
+Route::get('/Sumason', function () {
+    return view('oueme2020.Sumason');
+});
+
+Route::get('/Visaac', function () {
+    return view('oueme2020.Visaac');
+});
+
+Route::get('/Winoc', function () {
+    return view('oueme2020.Winoc');
+});
+
+
+Route::get('/Zansou', function () {
+    return view('oueme2020.Zansou');
+});
+
+Route::get('/Zossou', function () {
+    return view('oueme2020.Zossou');
+});
+
+Route::get('/Zount', function () {
+    return view('oueme2020.Zount');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
