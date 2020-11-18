@@ -12,7 +12,7 @@
   <div class="row">
     <div class="col-md-6" style="padding-top: 10px;font-size: 17px;">
       <ul>
-        <li> <a href="#" style="text-decoration: none; ">JOHN ADIDO  </a> </li>
+        <li> <a href="John Adido" style="text-decoration: none; ">JOHN ADIDO  </a> </li>
         <li> <a href="#" style="text-decoration: none; ">MARIUS ADJAGAN   </a> </li>
         <li> <a href="#" style="text-decoration: none; ">EUSEBE ADJAMALE   </a> </li>
         <li> <a href="#" style="text-decoration: none; ">PAULINE ADJAVON   </a> </li>

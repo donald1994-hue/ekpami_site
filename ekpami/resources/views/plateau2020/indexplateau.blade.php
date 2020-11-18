@@ -12,15 +12,15 @@
   <div class="row">
     <div class="col-md-6" style="padding-top: 10px;font-size: 17px;">
       <ul>
-        <li> <a href="#" style="text-decoration: none; ">WOLE JOSEPH AKOGOU  </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">LAZARE BARA BARA   </a> </li>
+        <li> <a href="Iwolé" style="text-decoration: none; ">WOLE JOSEPH AKOGOU  </a> </li>
+        <li> <a href="Lazare" style="text-decoration: none; ">LAZARE BARA BARA   </a> </li>
 
       </ul>
     </div>
     <div class="col-md-6" style="padding-top: 10px;font-size: 17px;">
       <ul>
-        <li> <a href="#" style="text-decoration: none; ">CLAUDE OLARINDE OGOUDELE  </a> </li>
-        <li> <a href="#" style="text-decoration: none; ">MICHEL TAIWO </a> </li>
+        <li> <a href="Claude" style="text-decoration: none; ">CLAUDE OLARINDE OGOUDELE  </a> </li>
+        <li> <a href="Michel Taiwo" style="text-decoration: none; ">MICHEL TAIWO </a> </li>
 
       </ul>
     </div>

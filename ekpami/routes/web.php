@@ -581,6 +581,11 @@ Route::get('/indexzou', function () {
     return view('zou2020.indexzou');
 });
 
+Route::get('/John Adido', function () {
+    return view('zou2020.John Adido');
+});
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes DU REPERTOIRE 2020
@@ -591,6 +596,29 @@ Route::get('/indexzou', function () {
 Route::get('/indexplateau', function () {
     return view('plateau2020.indexplateau');
 });
+
+Route::get('/Iwolé', function () {
+    return view('plateau2020.Iwolé');
+});
+
+Route::get('/Lazare', function () {
+    return view('plateau2020.Lazare');
+});
+
+Route::get('/Claude', function () {
+    return view('plateau2020.Claude');
+});
+
+Route::get('/Michel Taiwo', function () {
+    return view('plateau2020.Michel Taiwo');
+});
+
+
+
+
+
+
+
 
 
 
