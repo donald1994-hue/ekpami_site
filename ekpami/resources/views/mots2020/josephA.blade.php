@@ -5,7 +5,7 @@
   <img src="../resources/img/repertoire2013/image2.png" class="img-fluid ml-4"  alt="Responsive image" >
 </div>
 <div class="text" style="padding: 20px; text-align: justify;">
-<p><img src="../resources/img/HAUT/joseph.JPG" class="img-fluid ml-4" width="100px;"  alt="Responsive image" style="float:right;" >
+<p><img src="../resources/img/HAUT/joseph.jpg" class="img-fluid ml-4" width="100px;"  alt="Responsive image" style="float:right;" >
   <h5 style="color:red;">…LES ARTISTES CONTEMPORAINS AU BÉNIN
 D’UNE DÉCENNIE À L’AUTRE… </h5>
 <p>Ce texte, plutôt bref, Il propose, grâce à une comparaison

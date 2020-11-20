@@ -6,7 +6,7 @@
 </div>
 <div class="text" style="padding: 20px; text-align: justify;">
   <h3 style="color:red;">L’ART : UN OUTIL DE PERFORMANCE</h3>
-<p><img src="../resources/img/HAUT/JMA2020.JPG" class="img-fluid ml-4" width="100px;" alt="Responsive image" style="float:right;" >
+<p><img src="../resources/img/HAUT/JMA2020.jpg" class="img-fluid ml-4" width="100px;" alt="Responsive image" style="float:right;" >
   Le nouveau Répertoire des artistes plasticiens du Bénin
 et des acteurs des arts visuels du Bénin que vous parcourez en ce moment, est un précieux outil. Il présente
 deux cents cinquante neuf plasticiens du Bénin, avec

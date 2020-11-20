@@ -6,7 +6,7 @@
 </div>
 <div class="text" style="padding: 20px; text-align: justify;">
   <h3 style="color:red;">RETOUR EN FORCE DE L’ARTISTE PLASTICIEN </h3>
-<p><img src="../resources/img/HAUT/mozard.PNG" class="img-fluid ml-4" width="100px"  alt="Responsive image" style="float:right;" >
+<p><img src="../resources/img/HAUT/mozard.png" class="img-fluid ml-4" width="100px"  alt="Responsive image" style="float:right;" >
   Le projet ENAKPAMI 2, entendu 2ème Expérience Nouvelle
   d’Assistance Kyrielle aux Plasticiens pour leur Ascension
   via le Multimédia et l’Internet, est initié par l’Association

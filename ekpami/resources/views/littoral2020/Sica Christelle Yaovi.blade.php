@@ -5,23 +5,32 @@
   <div class="row">
 
 
-    <div class="col-md-6 pb-6">
+    <div class="col-md-4 pb-6">
       <div class="">
-              <img src="../resources/img/littoral2020/Vodouhè/img1.PNG"  width="300PX"    alt=""><br>
-              <small style="float:left; ">Board game</small>
+              <img src="../resources/img/littoral2020/Sika Christelle Yaovi/img1.PNG"  width="200PX"    alt=""><br>
+              <small style="float:left; ">j’ai adoré</small>
       </div>
    
     </div>
 
 
-    <div class="col-md-6 pb-6"> 
+    <div class="col-md-4 pb-6"> 
 
     <div class="">
-              <img src="../resources/img/littoral2020/Vodouhè/img2.PNG"  width="300PX"    alt=""><br>
-              <small style="float:left; ">Ladies and gentlemen</small>
+              <img src="../resources/img/littoral2020/Sika Christelle Yaovi/img2.PNG"  width="200PX"    alt=""><br>
+              <small style="float:left; ">Sans titre</small>
     </div>
  
     </div>
+
+    <div class="col-md-4 pb-6"> 
+
+<div class="">
+          <img src="../resources/img/littoral2020/Sika Christelle Yaovi/img3.PNG"  width="200PX"    alt=""><br>
+          <small style="float:left; ">Body trip</small>
+</div>
+
+</div>
 
   
  
@@ -32,10 +41,10 @@
 
   <div class=" identities">
     <h2>Sica Christelle Yaovi</h2>
-    <small>Né en 1986</small>
+    <small>Né en ..</small>
   </div>
   <div class="">
-    <img src="../resources/img/littoral2020/Vodouhè/auteur.PNG" alt="" style="">
+    <img src="../resources/img/littoral2020/Sika Christelle Yaovi/auteur.PNG" alt="" style="">
   </div>
 
 </div>
@@ -44,14 +53,14 @@
   <div class="row">
 
     <div class="col-md-6 ">
-            <p>Peintre,  performeur,  Nathanael  Vodouhè  ne  s’interdit  aucun  médium  et  continue  d’explorer  avec  passion  les  techniques  et les matières. Il consacre ses recherches récentes à la sculp-ture du bois pour un travail sur la dépendance. D’observer la consommation,  l’envie  de  posséder  des  objets  qui  nous  pos-sèdent, d’additionner des choses au point d’en faire des addic-tions, il s’intéresse à la construction de l’identité à partir des objets  qui  deviennent  indispensables  sans  être  nécessaires,  ni  à  la  survie,  ni  même  au  confort,  les  consommables,  qui  dépassent les besoins. Il traduit ses réflexions dans des ins-tallations d’objets en bois brûlé, qui se consomment, qui nous consument.  Cigarettes.  L’attachement  ou  la  dépendance  aux  objets est un investissement d’énergie psychique. La marque ou le produit peut être décrite comme un système identitaire et  considérée  comme  un  moyen  de  communication  avec  les  autres mais peut également constituer un repère par rapport à  soi-même.  {...}  La  relation  d’attachement  qui  existe  entre  les produits et les consommateurs peut être définie comme une variable psychologique qui traduit une relation affective durable et inaltérable (la séparation est douloureuse). « Mon travail est un regard sur l’Homme, sa dépendance, ses envies de consommation. Je représente des cigarettes car elles sont témoins d’une vraie forme d’apparition et de disparition et re-flètent avec une simple et terrible évidence la réalité-fantôme de la consommation. » F.B.
+            <p>Son travail est blessure. Son travail est exutoire. Son travail est désir d’être nue d’abord devant soi. Dans ce travail métis-sé de mediums qu’elle s’approprie à corps perdu et retrouvé, le  corps  est  une  présence  qui  se  heurte  au  monde.  L’esprit,  les liens, lui permettent de s’afranchir. On réleve des persis-tances, des leit-motifs, corps des femmes, jumeaux, sacrés au Bénin,  jumeaux  et  triplets  qui  évoquent  sa  propre  histoire,  les  mandalas  qui  l’extraient  vers  une  spiritualité  solaire...  Après sa thérapie terrible qui a dû faire l’offrande de vingt ans  de  créations,  Sica  Christelle  Yaovi  s’expose  dans  une  mise à nu inhabituelle ici où on cache ses angoisses et renie ses  failles.  La  destruction  a  fait  le  vide,  il  demanda  d’être  comblé. Sica, a glissée son âme, nue, entre deux miroirs, ses deux cultures, qu’elle a posées face à face et inscrit son art dans  cet  entre-deux  métisse  qui  les  confronte  autant  qu’il  les nourrit. Elle est Femme, Noire, Blanche, Dorée aux métis-sages - Sica est or dans une de ses langues – et cherche dans l’obscurité des sens, à la lumière de la pensée ou l’inverse, avec  une  âpre  sensualité.  Son  intimité  elle  la  danse  et  la  fait nôtre, nous tous qui sommes comme elle des survivants. Survivants  de  l’histoire,  de  nos  histoires,  du  monde  qu’on  nous  impose,  d’où  comme  elle,  nous  voulons  sortir  on  ne  peut  plus  vivants.  Le  mélange  est  son  territoire,  l’ici  et  le  là, le proche et l’ailleurs, elle le conte et raconte sur toutes les matières, ADN de sa palette de liens et d’émotions. F.B
             </p>
 
 
     </div>
     <hr>
     <div class="col-md-6 artiste-content-traduction">
-            <p>Painter, performer, Nathanael Vodouhè does not refrain from any medium and continues to explore techniques and mate-rials with passion. He dedicates his recent research to wood sculpture  for  a  work  on  addiction.  Observing  consumption,  the desire to possess objects that possess us, to add things to  the  point  of  making  them  addictive,  he  is  interested  in  the  construction  of  identity  from  objects  that  become  in-dispensable  without  being  necessary,  neither  for  survival,  nor  even  for  comfort,  consumables  that  exceed  needs.  He  translates his reflections into installations of objects made of burnt wood, which consume themselves, which consume us.  Cigarettes.  Attachment  or  dependence  on  objects  is  an  investment  of  psychic  energy.  The  brand  or  the  product  can  be  described  as  an  identity  system  and  considered  as  a  means  of  communication  with  others  but  can  also  be  a  reference  point  in  relation  to  oneself.  {...}  The  attachment  relationship  that  exists  between  products  and  consumers  can be defined as a psychological variable that reflects a lasting and unalterable emotional relationship (the separa-tion is painful). ‘‘My work is a look at Man, his dependency, his  desire  to  consume.  I  represent  cigarettes  because  they  witness  a  real  form  of  appearance  and  disappearance  and  reflect with simple and terrible evidence the ghostly reality of consumption’’. F.B.
+            <p>Her  work  is  wounded.  Her  work  is  an  outlet.  Her  work  is  a  desire to be naked in front of herself first. In this mixed work of  mediums  that  she  appropriates,  the  body  is  a  presence  that  collides  with  the  world.  The  spirit  and  the  links  allow  her  to  free  herself.  We  highlight  persistence,  leit-motifs,  women’s  bodies,  twins,  sacred  in  Benin,  twins  and  triplets  which  evoke  its  own  history,  the  mandalas  which  extract  it  towards  a  solar  spirituality...  After  her  terrible  therapy  which  has  made  the  offering  of  twenty  years  of  creations,  Sica Christelle Yaovi is exposed in an unusual exposure here where one hides his fears and denies his flaws. The destruc-tion created a void, it demanded to be filled. Sica slipped her soul,  naked,  between  two  mirrors,  her  two  cultures,  which  she laid face to face and inscribed her art in this intermixed race that confronts them as much as it nourishes them. She is a Woman, Black, White, Golden with crossbreeding, - Sica is gold in one of her languages - and searches in the darkness of the senses, in the light of thought or vice versa, with harsh sensuality.  Her  intimacy  she  dances  and  makes  it  ours,  all  of us who are survivors like her. Survivors of history, of our stories, of the world that is forced upon us, from where like her, we want to get out, more than alive. The mixture is her territory,  here  and  there,  close  and  elsewhere,  she  tells  it  and  tells  it  on  all  matters,  DNA  of  her  palette  of  links  and  emotions. F.B.
             </p>
     </div>
     
@@ -60,8 +69,8 @@
 <hr>
 
 <small class="contact">CONTACT</small><br>
-<small>Tél : +229 95 62 32 06 / 96 92 64 26</small><br>
-<small>E-mail : nathanvodouhe@yahoo.fr</small><br>
+<small>Tél : +229 96 96 30 30</small><br>
+<small>E-mail : christelle_yaovi@yahoo.fr</small><br>
 
 
 

@@ -892,9 +892,38 @@ Route::get('/Typamm', function () {
 Route::get('/Verkys', function () {
     return view('littoral2020.Verkys');
 });
+
 Route::get('/Vodouhè', function () {
     return view('littoral2020.Vodouhè');
 });
+
+Route::get('/Sica Christelle Yaovi', function () {
+    return view('littoral2020.Sica Christelle Yaovi');
+});
+
+Route::get('/Youri@', function () {
+    return view('littoral2020.Youri@');
+});
+
+Route::get('/Youss', function () {
+    return view('littoral2020.Youss');
+});
+
+Route::get('/Zecas', function () {
+    return view('littoral2020.Zecas');
+});
+
+Route::get('/Ziki', function () {
+    return view('littoral2020.Ziki');
+});
+
+Route::get('/Achille Zohoun', function () {
+    return view('littoral2020.Achille Zohoun');
+});
+
+
+
+
 
 
 

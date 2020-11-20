@@ -5,7 +5,7 @@
   <img src="../resources/img/repertoire2013/image2.png" class="img-fluid ml-4"  alt="Responsive image" >
 </div>
 <div class="text" style="padding: 20px; text-align: justify;">
-<p ><img src="../resources/img/HAUT/ue.JPG" class="img-fluid ml-4" width="150px"  alt="Responsive image" style="float:right;" >
+<p ><img src="../resources/img/HAUT/ue.jpg" class="img-fluid ml-4" width="150px"  alt="Responsive image" style="float:right;" >
   L’art, c’est l’expression du vivant. Le contact avec l’art
 laisse très souvent une trace indélébile dans nos têtes
 et dans nos cœurs, qui nous apaise, nous interpelle,
