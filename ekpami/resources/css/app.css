@@ -32,9 +32,13 @@
 
             **************************
             *
-    */
+  */
 
-	 .texte img{
+  .list{
+    display: ;
+  }
+
+	.texte img{
 		 height:70px;
 		 width:100px;
 	 }

@@ -519,9 +519,34 @@ Route::get('/Jean', function () {
 Route::get('/indexcouffo', function () {
     return view('couffo2020.indexcouffo');
 });
+
+Route::get('/Victor Hounnou', function () {
+    return view('couffo2020.Victor Hounnou');
+});
+
+
 Route::get('/indexdonga', function () {
     return view('donga2020.indexdonga');
 });
+
+Route::get('/Youss Atacora', function () {
+    return view('donga2020.Youss Atacora');
+});
+
+Route::get('/RogerBoni', function () {
+    return view('donga2020.RogerBoni');
+});
+
+Route::get('/Abdoulaye Fousseni', function () {
+    return view('donga2020.Abdoulaye Fousseni');
+});
+
+
+
+
+
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -922,160 +947,6 @@ Route::get('/Achille Zohoun', function () {
 });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes DU REPERTOIRE 2020
@@ -1390,6 +1261,11 @@ Route::get('/Zossou', function () {
 
 Route::get('/Zount', function () {
     return view('oueme2020.Zount');
+});
+
+
+Route::get('/autre artiste', function () {
+    return view('autre_artistes.autre artiste');
 });
 
 

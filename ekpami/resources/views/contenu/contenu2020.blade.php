@@ -12,19 +12,19 @@ artists in Benin from one decade to next <br> <small>Joseph C E ADANDE</small> <
 Union in Benin  </a>
       <a class="nav-link" id="v-pills-messages-tab"  href="plein" role="tab" aria-controls="v-pills-messages" aria-selected="false">L’état d’urgence / State of emergency <br> <small>Fabiola Badoi</small></a>
       <p class="rubrique pl-3 pr-3"  ><strong>Les artistes </strong></p>
-      <a class="nav-link" id="v-pills-messages-tab"  href="index" role="tab" aria-controls="v-pills-messages" aria-selected="false">Alibori</a>
+      <a class="nav-link" id="v-pills-messages-tab" href="index" role="tab" aria-controls="v-pills-messages" aria-selected="false">Alibori</a>
       <a class="nav-link" id="v-pills-profile-tab" href="indexatacora" role="tab" aria-controls="v-pills-profile" aria-selected="false">Atacora</a>
-      <a class="nav-link" id="v-pills-messages-tab" href="indexatlantique" role="tab" aria-controls="v-pills-messages" aria-selected="false">Atlantique</a>
+      <a class="nav-link" id="v-pills-messages-tab"href="indexatlantique" role="tab" aria-controls="v-pills-messages" aria-selected="false">Atlantique</a>
       <a class="nav-link" id="v-pills-profile-tab" href="indexborgou" role="tab" aria-controls="v-pills-profile" aria-selected="false">Borgou</a>
-      <a class="nav-link" id="v-pills-messages-tab" href="indexcolline" role="tab" aria-controls="v-pills-messages" aria-selected="false">Collines</a>
+      <a class="nav-link" id="v-pills-messages-tab"href="indexcolline" role="tab" aria-controls="v-pills-messages" aria-selected="false">Collines</a>
       <a class="nav-link" id="v-pills-profile-tab" href="indexcouffo" role="tab" aria-controls="v-pills-profile" aria-selected="false">Coufo</a>
-      <a class="nav-link" id="v-pills-messages-tab" href="indexdonga" role="tab" aria-controls="v-pills-messages" aria-selected="false">Donga</a>
+      <a class="nav-link" id="v-pills-messages-tab"href="indexdonga" role="tab" aria-controls="v-pills-messages" aria-selected="false">Donga</a>
       <a class="nav-link" id="v-pills-profile-tab" href="indexlittoral" role="tab" aria-controls="v-pills-profile" aria-selected="false">Littoral</a>
-      <a class="nav-link" id="v-pills-messages-tab" href="indexmono" role="tab" aria-controls="v-pills-messages" aria-selected="false">Mono</a>
+      <a class="nav-link" id="v-pills-messages-tab"href="indexmono" role="tab" aria-controls="v-pills-messages" aria-selected="false">Mono</a>
       <a class="nav-link" id="v-pills-profile-tab" href="indexoueme" role="tab" aria-controls="v-pills-profile" aria-selected="false">Ouémé</a>
-      <a class="nav-link" id="v-pills-messages-tab" href="indexplateau" role="tab" aria-controls="v-pills-messages" aria-selected="false">Plateau</a>
+      <a class="nav-link" id="v-pills-messages-tab"href="indexplateau" role="tab" aria-controls="v-pills-messages" aria-selected="false">Plateau</a>
       <a class="nav-link" id="v-pills-profile-tab" href="indexzou" role="tab" aria-controls="v-pills-profile" aria-selected="false">Zou</a>
-      <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Autres artistes du Bénin / Other artists of Benin</a>
+      <a class="nav-link" id="v-pills-messages-tab"href="autre artiste" role="tab" aria-controls="v-pills-messages" aria-selected="false">Autres artistes du Bénin / Other artists of Benin</a>
       <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Artistes béninois de la diaspora / Beninese artists of diaspora</a>
       <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Journalistes culturels / Cultural journalists</a>
       <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Historiens et critiques d’art / Art historians and art critics</a>

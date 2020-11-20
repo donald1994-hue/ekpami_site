@@ -13,7 +13,7 @@
     <div class="col-md-3"></div>
     <div class="col-md-6" style="padding-top: 10px;font-size: 17px;">
       <ul>
-        <li> <a href="#" style="text-decoration: none; ">VICTOR HOUNNOU  </a> </li>
+        <li> <a href="Victor Hounnou" style="text-decoration: none; ">VICTOR HOUNNOU  </a> </li>
       </ul>
     </div>
     <div class="col-md-3"></div>

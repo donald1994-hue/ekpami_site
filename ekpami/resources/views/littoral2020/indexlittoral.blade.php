@@ -115,7 +115,7 @@
         <li> <a href="Typamm" style="text-decoration: none; "> TYPAMM</a> </li>
         <li> <a href="Verkys" style="text-decoration: none; "> VERCKYS </a> </li>
         <li> <a href="Vodouhè" style="text-decoration: none; "> VODOUHE </a> </li>
-        <li> <a href=""style="text-decoration: none; "> YAMADJAKO </a> </li>
+       
         <li> <a href="Sica Christelle Yaovi" style="text-decoration: none; "> SIKA CHRISTELLE YAOVI  </a> </li>
         <li> <a href="Youri@" style="text-decoration: none; "> YOURI@  </a> </li>
         <li> <a href="Youss" style="text-decoration: none; "> YOUSS </a> </li>
