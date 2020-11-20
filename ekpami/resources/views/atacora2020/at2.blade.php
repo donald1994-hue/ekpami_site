@@ -3,19 +3,34 @@
 
 <div class="container mt-4">
   <div class="row">
-    <div class="col-md-6">
-      <div class="mt-4">
 
-      </div>
-    </div>
 
-    <div class="col-md-6">
+   <div class="col-md-6 pb-4">
+
       <div class="">
-
+              <img src="../resources/img/atacora2020/Epaphras/img1.PNG"  width="300PX"    alt=""><br>
+              <small style="float:left; ">La forêt des murmures</small>
       </div>
+
+
+   </div>
+
+    <div class="col-md-6 pb-4">
+
+      <div class="">
+              <img src="../resources/img/atacora2020/Epaphras/img2.PNG"  width="300PX"    alt=""><br>
+              <small style="float:left; ">Sans titre</small>
+      </div>
+
     </div>
 
 
+
+
+
+
+
+    
   </div>
 </div>
 

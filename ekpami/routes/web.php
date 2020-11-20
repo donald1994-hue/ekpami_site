@@ -522,9 +522,529 @@ Route::get('/indexcouffo', function () {
 Route::get('/indexdonga', function () {
     return view('donga2020.indexdonga');
 });
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes DU REPERTOIRE 2020
+|--------------------------------------------------------------------------
+
+*/
 Route::get('/indexlittoral', function () {
     return view('littoral2020.indexlittoral');
 });
+
+Route::get('/Alex', function () {
+    return view('littoral2020.Alex');
+});
+
+Route::get('/Oswald', function () {
+    return view('littoral2020.Oswald');
+});
+
+Route::get('/Adogra', function () {
+    return view('littoral2020.Adogra');
+});
+
+Route::get('/Adonon', function () {
+    return view('littoral2020.Adonon');
+});
+
+Route::get('/Afi', function () {
+    return view('littoral2020.Afi');
+});
+
+Route::get('/Agbodandé', function () {
+    return view('littoral2020.Agbodandé');
+});
+
+Route::get('/Erick', function () {
+    return view('littoral2020.Erick');
+});
+
+Route::get('/Francis', function () {
+    return view('littoral2020.Francis');
+});
+
+Route::get('/Akohou', function () {
+    return view('littoral2020.Akohou');
+});
+Route::get('/Alabah', function () {
+    return view('littoral2020.Alabah');
+});
+
+Route::get('/Alihossi', function () {
+    return view('littoral2020.Alihossi');
+});
+
+Route::get('/Amouros', function () {
+    return view('littoral2020.Amouros');
+});
+
+Route::get('/Edwige ', function () {
+    return view('littoral2020.Edwige ');
+});
+
+Route::get('/Aremon', function () {
+    return view('littoral2020.Aremon');
+});
+
+Route::get('/Aris', function () {
+    return view('littoral2020.Aris');
+});
+
+Route::get('/Aston', function () {
+    return view('littoral2020.Aston');
+});
+
+Route::get('/Avhec', function () {
+    return view('littoral2020.Avhec');
+});
+
+Route::get('/Ayeko', function () {
+    return view('littoral2020.Ayeko');
+});
+
+Route::get('/Azagba', function () {
+    return view('littoral2020.Azagba');
+});
+
+Route::get('/Bamouss', function () {
+    return view('littoral2020.Bamouss');
+});
+
+Route::get('/Bavet', function () {
+    return view('littoral2020.Bavet');
+});
+
+Route::get('/Aureil', function () {
+    return view('littoral2020.Aureil');
+});
+
+Route::get('/Esther', function () {
+    return view('littoral2020.Esther');
+});
+
+Route::get('/Bimo', function () {
+    return view('littoral2020.Bimo');
+});
+
+Route::get('/Bistinov', function () {
+    return view('littoral2020.Bistinov');
+});
+
+Route::get('/Sébastien', function () {
+    return view('littoral2020.Sébastien');
+});
+
+Route::get('/BOL@', function () {
+    return view('littoral2020.BOL@');
+});
+
+Route::get('/Bonsa', function () {
+    return view('littoral2020.Bonsa');
+});
+
+Route::get('/Cortex', function () {
+    return view('littoral2020.Cortex');
+});
+
+Route::get('/Charly', function () {
+    return view('littoral2020.Charly');
+});
+
+Route::get('/D’Hyzo', function () {
+    return view('littoral2020.D’Hyzo');
+});
+
+Route::get('/Cyrus', function () {
+    return view('littoral2020.Cyrus');
+});
+
+Route::get('/Joseph', function () {
+    return view('littoral2020.Joseph');
+});
+
+Route::get('/Sika', function () {
+    return view('littoral2020.Sika');
+});
+
+Route::get('/Marius', function () {
+    return view('littoral2020.Marius');
+});
+Route::get('/Benjamin', function () {
+    return view('littoral2020.Benjamin');
+});
+Route::get('/Sonia', function () {
+    return view('littoral2020.Sonia');
+});
+
+Route::get('/Franck', function () {
+    return view('littoral2020.Franck');
+});
+
+Route::get('/Kifouli', function () {
+    return view('littoral2020.Kifouli');
+});
+
+
+Route::get('/ELon-M', function () {
+    return view('littoral2020.ELon-M');
+});
+
+Route::get('/Fadaïro', function () {
+    return view('littoral2020.Fadaïro');
+});
+
+Route::get('/Ulrich', function () {
+    return view('littoral2020.Ulrich');
+});
+
+Route::get('/Frigg', function () {
+    return view('littoral2020.Frigg');
+});
+
+
+Route::get('/Meshac', function () {
+    return view('littoral2020.Meshac');
+});
+
+Route::get('/Gahoui', function () {
+    return view('littoral2020.Gahoui');
+});
+
+Route::get('/Gandhi', function () {
+    return view('littoral2020.Gandhi');
+});
+
+Route::get('/Thierry', function () {
+    return view('littoral2020.Thierry');
+});
+
+Route::get('/Christian', function () {
+    return view('littoral2020.Christian');
+});
+
+Route::get('/Gianni', function () {
+    return view('littoral2020.Gianni');
+});
+Route::get('/Euloge', function () {
+    return view('littoral2020.Euloge');
+});
+Route::get('/Grek', function () {
+    return view('littoral2020.Grek');
+});
+
+Route::get('/Philippe', function () {
+    return view('littoral2020.Philippe');
+});
+
+Route::get('/Hantan', function () {
+    return view('littoral2020.Hantan');
+});
+
+Route::get('/Hodall', function () {
+    return view('littoral2020.Hodall');
+});
+
+Route::get('/Horacio', function () {
+    return view('littoral2020.Horacio');
+});
+
+Route::get('/Kaman', function () {
+    return view('littoral2020.Kaman');
+});
+
+Route::get('/Kandoté', function () {
+    return view('littoral2020.Kandoté');
+});
+Route::get('/Koblanc', function () {
+    return view('littoral2020.Koblanc');
+});
+
+Route::get('/David', function () {
+    return view('littoral2020.David');
+});
+Route::get('/Koltis', function () {
+    return view('littoral2020.Koltis');
+});
+
+Route::get('/Korblah', function () {
+    return view('littoral2020.Korblah');
+});
+
+Route::get('/Tété', function () {
+    return view('littoral2020.Tété');
+});
+
+
+Route::get('/Simon', function () {
+    return view('littoral2020.Simon');
+});
+
+Route::get('/Frank', function () {
+    return view('littoral2020.Frank');
+});
+
+
+Route::get('/Laudamus', function () {
+    return view('littoral2020.Laudamus');
+});
+
+Route::get('/LCM', function () {
+    return view('littoral2020.LCM');
+});
+Route::get('/Lionel Davinci', function () {
+    return view('littoral2020.Lionel Davinci');
+});
+Route::get('/Mahoussi', function () {
+    return view('littoral2020.Mahoussi');
+});
+
+Route::get('/Makef', function () {
+    return view('littoral2020.Makef');
+});
+
+Route::get('/Marxk', function () {
+    return view('littoral2020.Marxk');
+});
+Route::get('/Eric Mededa', function () {
+    return view('littoral2020.Eric Mededa');
+});
+
+Route::get('/Romuald Mevo Guezo', function () {
+    return view('littoral2020.Romuald Mevo Guezo');
+});
+
+Route::get('/Midy', function () {
+    return view('littoral2020.Midy');
+});
+
+Route::get('/Florent Nagoba', function () {
+    return view('littoral2020.Florent Nagoba');
+});
+
+Route::get('/Sophie Négrier', function () {
+    return view('littoral2020.Sophie Négrier');
+});
+
+Route::get('/Orèmi', function () {
+    return view('littoral2020.Orèmi');
+});
+
+Route::get('/Pat’ace', function () {
+    return view('littoral2020.Pat’ace');
+});
+Route::get('/Piza', function () {
+    return view('littoral2020.Piza');
+});
+
+Route::get('/Psycoffi', function () {
+    return view('littoral2020.Psycoffi');
+});
+Route::get('/Kpessou Quenum', function () {
+    return view('littoral2020.Kpessou Quenum');
+});
+
+Route::get('/Samuz', function () {
+    return view('littoral2020.Samuz');
+});
+
+Route::get('/Valentin Salako', function () {
+    return view('littoral2020.Valentin Salako');
+});
+
+Route::get('/Sanda', function () {
+    return view('littoral2020.Sanda');
+});
+
+Route::get('/Sincelor la Bombe', function () {
+    return view('littoral2020.Sincelor la Bombe');
+});
+
+Route::get('/Sœur Henriette', function () {
+    return view('littoral2020.Sœur Henriette');
+});
+
+Route::get('/Hector Sonon', function () {
+    return view('littoral2020.Hector Sonon');
+});
+
+Route::get('/Tchif', function () {
+    return view('littoral2020.Tchif');
+});
+
+Route::get('/Thiakpè', function () {
+    return view('littoral2020.Thiakpè');
+});
+
+Route::get('/Prince Toffa', function () {
+    return view('littoral2020.Prince Toffa');
+});
+
+Route::get('/Mathias Tossa', function () {
+    return view('littoral2020.Mathias Tossa');
+});
+
+Route::get('/Typamm', function () {
+    return view('littoral2020.Typamm');
+});
+
+Route::get('/Verkys', function () {
+    return view('littoral2020.Verkys');
+});
+Route::get('/Vodouhè', function () {
+    return view('littoral2020.Vodouhè');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*
@@ -584,6 +1104,99 @@ Route::get('/indexzou', function () {
 Route::get('/John Adido', function () {
     return view('zou2020.John Adido');
 });
+
+Route::get('/Marius Adjagan', function () {
+    return view('zou2020.Marius Adjagan');
+});
+
+Route::get('/Eusèbe', function () {
+    return view('zou2020.Eusèbe');
+});
+
+Route::get('/Pauline Adjavon', function () {
+    return view('zou2020.Pauline Adjavon');
+});
+
+Route::get('/Modeste Affama', function () {
+    return view('zou2020.Modeste Affama');
+});
+
+Route::get('/Damien Akaty', function () {
+    return view('zou2020.Damien Akaty');
+});
+
+Route::get('/Arolando', function () {
+    return view('zou2020.Arolando');
+});
+
+Route::get('/Djimakou Avokan', function () {
+    return view('zou2020.Djimakou Avokan');
+});
+
+Route::get('/Julien Degan', function () {
+    return view('zou2020.Julien Degan');
+});
+
+Route::get('/Barthélémy', function () {
+    return view('zou2020.Barthélémy');
+});
+
+Route::get('/Lucien', function () {
+    return view('zou2020.Lucien');
+});
+Route::get('/Edouard', function () {
+    return view('zou2020.Edouard');
+});
+
+Route::get('/Antelme Lokossou', function () {
+    return view('zou2020.Antelme Lokossou');
+});
+
+Route::get('/Brice Lokossou', function () {
+    return view('zou2020.Brice Lokossou');
+});
+
+Route::get('/Gladys', function () {
+    return view('zou2020.Gladys');
+});
+
+Route::get('/Réjina', function () {
+    return view('zou2020.Réjina');
+});
+
+Route::get('/Lionel Pede', function () {
+    return view('zou2020.Lionel Pede');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*

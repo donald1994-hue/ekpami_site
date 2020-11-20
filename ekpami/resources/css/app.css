@@ -35,7 +35,7 @@
     */
 
 	 .texte img{
-		 height: 70px;
+		 height:70px;
 		 width:100px;
 	 }
 	 p{
@@ -204,7 +204,8 @@
 		}
 		.identités img{
 
-			width: 80px;
+      width:150px;
+      height: 150px;
 		}
 
 	.artiste-content .identités{
@@ -212,7 +213,7 @@
 	}
 		.identités h2{
 			margin-top: 20px;
-			font-size: 45px;
+			font-size: 40px;
 		}
 
 
