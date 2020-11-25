@@ -12,11 +12,13 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/admin', function () {
-    return view('admin.welcome');
-});
+
 Route::get('/', function () {
     return view('index');
+});
+
+Route::get('/admin', function () {
+    return view('admin.welcome');
 });
 
 Route::get('/repertoire2013', function () {
@@ -1267,6 +1269,470 @@ Route::get('/Zount', function () {
 Route::get('/autre artiste', function () {
     return view('autre_artistes.autre artiste');
 });
+
+
+Route::get('/artiste_diaspo', function () {
+    return view('autre_artistes.artiste_diaspo');
+});
+
+Route::get('/journaliste_culturelle', function () {
+    return view('autre_artistes.journaliste_culturelle');
+});
+
+Route::get('/Océane Adjovi', function () {
+    return view('autre_artistes.Océane Adjovi');
+});
+Route::get('/Argos', function () {
+    return view('autre_artistes.Argos');
+});
+
+Route::get('/Eustache Agboton', function () {
+    return view('autre_artistes.Eustache Agboton');
+});
+
+Route::get('/Ramanou Aledji', function () {
+    return view('autre_artistes.Ramanou Aledji');
+});
+
+Route::get('/Fatimata Amadou', function () {
+    return view('autre_artistes.Fatimata Amadou');
+});
+
+
+Route::get('/Abdon', function () {
+    return view('autre_artistes.Abdon');
+});
+
+Route::get('/Inès', function () {
+    return view('autre_artistes.Inès');
+});
+
+Route::get('/Serge Guezo', function () {
+    return view('autre_artistes.Serge Guezo');
+});
+
+Route::get('/Comlan', function () {
+    return view('autre_artistes.Comlan');
+});
+
+Route::get('/Edouard', function () {
+    return view('autre_artistes.Edouard');
+});
+
+
+Route::get('/Hubert Kidjassou', function () {
+    return view('autre_artistes.Hubert Kidjassou');
+});
+
+Route::get('/Marcel Kpogodo', function () {
+    return view('autre_artistes.Marcel Kpogodo');
+});
+Route::get('/Carles', function () {
+    return view('autre_artistes.Carles');
+});
+
+Route::get('/William Noumonvi', function () {
+    return view('autre_artistes.William Noumonvi');
+});
+
+Route::get('/Georges', function () {
+    return view('autre_artistes.Georges');
+});
+
+Route::get('/Fidélé Tchokponhoue', function () {
+    return view('autre_artistes.Fidélé Tchokponhoue');
+});
+
+Route::get('/Julien', function () {
+    return view('autre_artistes.Julien');
+});
+
+Route::get('/Louis K', function () {
+    return view('autre_artistes.Louis K');
+});
+
+Route::get('/Patrick H', function () {
+    return view('autre_artistes.Patrick H');
+});
+
+Route::get('/Hugues', function () {
+    return view('autre_artistes.Hugues');
+});
+
+Route::get('/Serge', function () {
+    return view('autre_artistes.Serge');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Route::get('/historiens', function () {
+    return view('autre_artistes.historiens');
+});
+
+Route::get('/Joseph', function () {
+    return view('autre_artistes.Joseph');
+});
+
+Route::get('/Gabin Djimasse', function () {
+    return view('autre_artistes.Gabin Djimasse');
+});
+
+Route::get('/Didier Marcel', function () {
+    return view('autre_artistes.Didier Marcel');
+});
+
+Route::get('/Léandre Onikpo', function () {
+    return view('autre_artistes.Léandre Onikpo');
+});
+
+Route::get('/Romuald Tchibozo', function () {
+    return view('autre_artistes.Romuald Tchibozo');
+});
+
+
+
+Route::get('/collectionneur', function () {
+    return view('autre_artistes.collectionneur');
+});
+
+Route::get('/Les lieux culturels', function () {
+    return view('autre_artistes.Les lieux culturels');
+});
+
+Route::get('/Fédérations', function () {
+    return view('autre_artistes.Fédérations');
+});
+Route::get('/Association 2APD', function () {
+    return view('autre_artistes.Association 2APD');
+});
+
+Route::get('/aapp', function () {
+    return view('autre_artistes.aapp');
+});
+
+Route::get('/AMu', function () {
+    return view('autre_artistes.AMu');
+});
+
+Route::get('/BD', function () {
+    return view('autre_artistes.BD');
+});
+
+Route::get('/ABAP-FOUR P', function () {
+    return view('autre_artistes.ABAP-FOUR P');
+});
+
+Route::get('/ABAU', function () {
+    return view('autre_artistes.ABAU');
+});
+
+Route::get('/ACAB', function () {
+    return view('autre_artistes.ACAB');
+});
+
+Route::get('/ADAV-BENIN', function () {
+    return view('autre_artistes.ADAV-BENIN');
+});
+
+Route::get('/ADePAO', function () {
+    return view('autre_artistes.ADePAO');
+});
+
+Route::get('/APAPA', function () {
+    return view('autre_artistes.APAPA');
+});
+
+
+Route::get('/APAV', function () {
+    return view('autre_artistes.APAV');
+});
+
+Route::get('/ALOKPLE', function () {
+    return view('autre_artistes.ALOKPLE');
+});
+
+Route::get('/APB', function () {
+    return view('autre_artistes.APB');
+});
+
+Route::get('/APDSP', function () {
+    return view('autre_artistes.APDSP');
+});
+
+Route::get('/APJ-CAP', function () {
+    return view('autre_artistes.APJ-CAP');
+});
+
+Route::get('/ART-AZIZA', function () {
+    return view('autre_artistes.ART-AZIZA');
+});
+Route::get('/aace', function () {
+    return view('autre_artistes.aace');
+});
+Route::get('/BENIN-DESSIN', function () {
+    return view('autre_artistes.BENIN-DESSIN');
+});
+
+Route::get('/HOUEF’ART', function () {
+    return view('autre_artistes.HOUEF’ART');
+});
+
+
+Route::get('/Noudjiou', function () {
+    return view('autre_artistes.Noudjiou');
+});
+
+Route::get('/OKUTA', function () {
+    return view('autre_artistes.OKUTA');
+});
+
+Route::get('/SAVOART', function () {
+    return view('autre_artistes.SAVOART');
+});
+
+Route::get('/YÈ', function () {
+    return view('autre_artistes.YÈ');
+});
+
+Route::get('/ADECD', function () {
+    return view('autre_artistes.ADECD');
+});
+
+Route::get('/AFRAAC', function () {
+    return view('autre_artistes.AFRAAC');
+});
+
+Route::get('/AFRICADOC', function () {
+    return view('autre_artistes.AFRICADOC');
+});
+
+Route::get('/ASAP', function () {
+    return view('autre_artistes.ASAP');
+});
+
+Route::get('/Ayïzo', function () {
+    return view('autre_artistes.Ayïzo');
+});
+Route::get('/BBH', function () {
+    return view('autre_artistes.BBH');
+});
+Route::get('/BR', function () {
+    return view('autre_artistes.BR');
+});
+
+Route::get('/Hogbonu', function () {
+    return view('autre_artistes.Hogbonu');
+});
+
+Route::get('/Elowa', function () {
+    return view('autre_artistes.Elowa');
+});
+
+Route::get('/Essor', function () {
+    return view('autre_artistes.Essor');
+});
+
+
+Route::get('/Ganiou', function () {
+    return view('autre_artistes.Ganiou');
+});
+
+Route::get('/Yaba', function () {
+    return view('autre_artistes.Yaba');
+});
+
+Route::get('/Zinsou', function () {
+    return view('autre_artistes.Zinsou');
+});
+Route::get('/gaic', function () {
+    return view('autre_artistes.gaic');
+});
+Route::get('/HCREA', function () {
+    return view('autre_artistes.HCREA');
+});
+
+Route::get('/Africa', function () {
+    return view('autre_artistes.Africa');
+});
+
+Route::get('/Kultur', function () {
+    return view('autre_artistes.Kultur');
+});
+
+Route::get('/diasporas', function () {
+    return view('autre_artistes.diasporas');
+});
+
+Route::get('/Dina', function () {
+    return view('autre_artistes.Dina');
+});
+
+Route::get('/Plurielles', function () {
+    return view('autre_artistes.Plurielles');
+});
+
+Route::get('/Africa Mondo', function () {
+    return view('autre_artistes.Africa Mondo');
+});
+
+Route::get('/Vie et Solidarité', function () {
+    return view('autre_artistes.Vie et Solidarité');
+});
+
+Route::get('/Regard Benin', function () {
+    return view('autre_artistes.Regard Benin');
+});
+
+Route::get('/OSC', function () {
+    return view('autre_artistes.OSC');
+});
+
+Route::get('/FAAP-BENIN', function () {
+    return view('autre_artistes.FAAP-BENIN');
+});
+
+Route::get('/FAP', function () {
+    return view('autre_artistes.FAP');
+});
+
+Route::get('/fappg', function () {
+    return view('autre_artistes.fappg');
+});
+Route::get('/fav', function () {
+    return view('autre_artistes.fav');
+});
+
+Route::get('/FBAAP', function () {
+    return view('autre_artistes.FBAAP');
+});
+
+Route::get('/FNAAP', function () {
+    return view('autre_artistes.FNAAP');
+});
+
+Route::get('/FAPAPIOP', function () {
+    return view('autre_artistes.FAPAPIOP');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

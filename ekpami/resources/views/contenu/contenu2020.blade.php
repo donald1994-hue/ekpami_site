@@ -25,12 +25,12 @@ Union in Benin  </a>
       <a class="nav-link" id="v-pills-messages-tab"href="indexplateau" role="tab" aria-controls="v-pills-messages" aria-selected="false">Plateau</a>
       <a class="nav-link" id="v-pills-profile-tab" href="indexzou" role="tab" aria-controls="v-pills-profile" aria-selected="false">Zou</a>
       <a class="nav-link" id="v-pills-messages-tab"href="autre artiste" role="tab" aria-controls="v-pills-messages" aria-selected="false">Autres artistes du Bénin / Other artists of Benin</a>
-      <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Artistes béninois de la diaspora / Beninese artists of diaspora</a>
-      <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Journalistes culturels / Cultural journalists</a>
-      <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Historiens et critiques d’art / Art historians and art critics</a>
-      <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Collectionneurs / Collectors</a>
-      <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Fédérations et associations / Federations and associations</a>
-      <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Lieux culturels et musées / Cultural spaces and museums</a>
+      <a class="nav-link" id="v-pills-profile-tab" href="artiste_diaspo" role="tab" aria-controls="v-pills-profile" aria-selected="false">Artistes béninois de la diaspora / Beninese artists of diaspora</a>
+      <a class="nav-link" id="v-pills-messages-tab"href="journaliste_culturelle" role="tab" aria-controls="v-pills-messages" aria-selected="false">Journalistes culturels / Cultural journalists</a>
+      <a class="nav-link" id="v-pills-profile-tab" href="historiens" role="tab" aria-controls="v-pills-profile" aria-selected="false">Historiens et critiques d’art / Art historians and art critics</a>
+      <a class="nav-link" id="v-pills-profile-tab"  href="collectionneur" role="tab" aria-controls="v-pills-profile" aria-selected="false">Collectionneurs / Collectors</a>
+      <a class="nav-link" id="v-pills-profile-tab" href="Fédérations" role="tab" aria-controls="v-pills-profile" aria-selected="false">Fédérations et associations / Federations and associations</a>
+      <a class="nav-link" id="v-pills-messages-tab"  href="Les lieux culturels" role="tab" aria-controls="v-pills-messages" aria-selected="false">Lieux culturels et musées / Cultural spaces and museums</a>
 
     </div>
   </div>
