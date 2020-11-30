@@ -6,21 +6,21 @@
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/a1.png"  width="180PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/a1.PNG"  width="180PX"   alt=""><br>
         <small style="float:left; "> Le voyage vers soi</small>
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/a2.png"  width="180px"  alt="">
+        <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/a2.PNG"  width="180px"  alt="">
         <small style="float:left; ">L’homme : Le père de la dualité</small>
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/a3.png"  width="180px"  alt="">
+        <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/a3.PNG"  width="180px"  alt="">
         <small style="float:left; ">La famille parfaite</small>
       </div>
     </div>
@@ -35,7 +35,7 @@
     <small>Né en 1990 </small>
   </div>
   <div class="">
-  <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/gaetant.png" alt="" style="float: right; width: 80px;">
+  <img src="../resources/img/atlantique2020/AHOUILIHOUA  Gaetan/gaetant.png" alt="" style="float: right; ">
   </div>
 
 </div>

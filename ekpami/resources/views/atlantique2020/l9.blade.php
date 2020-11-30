@@ -35,7 +35,7 @@
     <small>Né en 1978</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Landry Ahounagonou/landry.PNG" alt="" >
+    <img src="../resources/img/atlantique2020/Landry Ahounagonou/landry.png" alt="" >
   </div>
 
 </div>

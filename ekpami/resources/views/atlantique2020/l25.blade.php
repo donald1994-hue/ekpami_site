@@ -6,14 +6,14 @@
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/BEWA José/a1.jpg"  width="200px"  alt="">
+        <img src="../resources/img/atlantique2020/BEWA José/img1.png"  width="200px"  alt="">
         <small style="float:left; ">Rythme africain</small>
       </div>
     </div>
     <div class="col-md-4">
 
       <div class="">
-        <img src="../resources/img/atlantique2020/BEWA José/a2.jpg"  width="200PX"    alt=""><br>
+        <img src="../resources/img/atlantique2020/BEWA José/img2.png"  width="200PX"    alt=""><br>
         <small style="float:left; ">Mon père avait raison</small>
       </div>
     </div>
@@ -36,7 +36,7 @@
     <small>Né en 1985 </small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/BEWA José/4.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/BEWA José/auteur.png" alt="" style="">
   </div>
 
 </div>

@@ -6,7 +6,7 @@
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Azebaba/a2.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/Azebaba/a2.PNG"  width="250px"  alt="">
         <small style="float:left; ">sans titre</small>
       </div>
     </div>
@@ -14,12 +14,12 @@
     <div class="col-md-6">
 
       <div class="">
-        <img src="../resources/img/atlantique2020/Azebaba/a1.png"  width="280PX"    alt=""><br>
+        <img src="../resources/img/atlantique2020/Azebaba/a1.PNG"  width="280PX"    alt=""><br>
         <small style="float:left; ">sans titre</small>
       </div>
 
       <div class="">
-        <img src="../resources/img/atlantique2020/Azebaba/a3.png"  width="280PX"    alt=""><br>
+        <img src="../resources/img/atlantique2020/Azebaba/a3.PNG"  width="280PX"    alt=""><br>
         <small style="float:left; ">sans titre</small>
       </div>
 
@@ -37,7 +37,7 @@
     <small>Né en  1962 </small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Azebaba/da.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Azebaba/p.jpg" alt="" style="">
   </div>
 
 </div>

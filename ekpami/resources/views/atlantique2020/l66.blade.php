@@ -8,7 +8,7 @@
     <div class="col-md-6">
 
         <div class="">
-            <img src="../resources/img/atlantique2020/Franck Neurro/img1.png"  width="250PX"    alt=""><br>
+            <img src="../resources/img/atlantique2020/Franck Neurro/IMG1.png"  width="250PX"    alt=""><br>
             <small style="float:left; ">Le génie du serpent</small>
         </div>
        

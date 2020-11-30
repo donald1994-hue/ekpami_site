@@ -6,14 +6,14 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Bienvenu Abaï/a1.png"  width="250PX" height="px"  alt=""><br>
+        <img src="../resources/img/atlantique2020/Bienvenu Abaï/a1.PNG"  width="250PX" height="px"  alt=""><br>
         <small style="float:left; ">Que les bénédictions soient</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Bienvenu Abaï/a2.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/Bienvenu Abaï/a2.PNG"  width="250px"  alt="">
         <small style="float:left; ">Le voiturier</small>
       </div>
 

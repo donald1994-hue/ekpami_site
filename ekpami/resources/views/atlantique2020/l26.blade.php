@@ -29,7 +29,7 @@
     <small>Né en 1976 </small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/BLITI Armel BLISMELO/PP.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/BLITI Armel BLISMELO/auteur.png" alt="" style="">
   </div>
 
 </div>

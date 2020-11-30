@@ -34,7 +34,7 @@
     <small>Né en 1966</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/HANOU Jean de dieu/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/HANOU Jean de dieu/auteur.png" alt="" style="">
   </div>
 
 </div>

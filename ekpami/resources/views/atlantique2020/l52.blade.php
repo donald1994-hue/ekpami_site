@@ -41,7 +41,7 @@
     <small>Né en 1997</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/hodonou rosine/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/hodonou rosine/auteur52.PNG" alt="" style="">
   </div>
 
 </div>

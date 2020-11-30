@@ -46,7 +46,7 @@
     <small>Né en 1981</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/TOTCHEMETCHEHO Cosme/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/TOTCHEMETCHEHO Cosme/auteur76.PNG" alt="" style="">
   </div>
 
 </div>

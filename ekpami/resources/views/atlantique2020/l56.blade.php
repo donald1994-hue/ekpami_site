@@ -33,7 +33,7 @@
     <small>Né en 1993</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Hueha’s/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Hueha’s/auteur57.PNG" alt="" style="">
   </div>
 
 </div>

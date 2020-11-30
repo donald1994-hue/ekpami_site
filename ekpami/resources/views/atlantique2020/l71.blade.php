@@ -45,7 +45,7 @@
     <small>Né en 1984</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/romi/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/romi/auteur72.PNG" alt="" style="">
   </div>
 
 </div>

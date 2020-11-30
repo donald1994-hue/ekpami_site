@@ -6,7 +6,7 @@
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/Ishola Akpo/a1.png"  width="180PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Ishola Akpo/a1.PNG"  width="180PX"   alt=""><br>
         <small style="float:left; ">Agbarawomen </small>
       </div>
     </div>
@@ -14,14 +14,14 @@
     <div class="col-md-4">
 
       <div class="">
-        <img src="../resources/img/atlantique2020/Ishola Akpo/a2.png"  width="180PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Ishola Akpo/a2.PNG"  width="180PX"   alt=""><br>
         <small style="float:left; "> Daibi</small>
       </div>
     </div>
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/Ishola Akpo/a3.png"  width="180px"  alt="">
+        <img src="../resources/img/atlantique2020/Ishola Akpo/a3.PNG"  width="180px"  alt="">
         <small style="float:left; ">Agbarawomen</small>
       </div>
     </div>

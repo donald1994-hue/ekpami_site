@@ -44,7 +44,7 @@
     <small>Née en 1960</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Laetitia Falade Gnelé/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Laetitia Falade Gnelé/auteur46.PNG" alt="" style="">
   </div>
 
 </div>

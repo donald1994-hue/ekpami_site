@@ -41,7 +41,7 @@
     <small>Née en 1948</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/ZOSSOU Gratien/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/ZOSSOU Gratien/auteur86.PNG" alt="" style="">
   </div>
 
 </div>

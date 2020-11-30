@@ -1046,8 +1046,8 @@ Route::get('/Barthélémy', function () {
 Route::get('/Lucien', function () {
     return view('zou2020.Lucien');
 });
-Route::get('/Edouard', function () {
-    return view('zou2020.Edouard');
+Route::get('/Edouard Vodoumbo', function () {
+    return view('zou2020.Edouard Vodoumbo');
 });
 
 Route::get('/Antelme Lokossou', function () {
@@ -1646,7 +1646,235 @@ Route::get('/FNAAP', function () {
 
 Route::get('/FAPAPIOP', function () {
     return view('autre_artistes.FAPAPIOP');
+}); 
+Route::get('/Artisttik Africa', function () {
+    return view('autre_artistes.Artisttik Africa');
 });
+
+Route::get('/Yamadjako', function () {
+    return view('autre_artistes.Yamadjako');
+});
+Route::get('/Carine', function () {
+    return view('autre_artistes.Carine');
+});
+
+Route::get('/cca', function () {
+    return view('autre_artistes.cca');
+});
+
+Route::get('/ccc', function () {
+    return view('autre_artistes.ccc');
+});
+Route::get('/Enakpami', function () {
+    return view('autre_artistes.Enakpami');
+});
+Route::get('/CIAMO', function () {
+    return view('autre_artistes.CIAMO');
+});
+
+Route::get('/Lobozounkpa', function () {
+    return view('autre_artistes.Lobozounkpa');
+});
+
+
+Route::get('/Hogbonu1', function () {
+    return view('autre_artistes.Hogbonu1');
+});
+Route::get('/EPA', function () {
+    return view('autre_artistes.EPA');
+});
+
+Route::get('/ESMA', function () {
+    return view('autre_artistes.ESMA');
+});
+Route::get('/ESMAC', function () {
+    return view('autre_artistes.ESMAC');
+});
+Route::get('/WAKIRI', function () {
+    return view('autre_artistes.WAKIRI');
+});
+
+Route::get('/Arts Visuels', function () {
+    return view('autre_artistes.Arts Visuels');
+});
+
+Route::get('/Aréma', function () {
+    return view('autre_artistes.Aréma');
+});
+
+Route::get('/Parking', function () {
+    return view('autre_artistes.Parking');
+});
+
+Route::get('/Fondation Zinsou', function () {
+    return view('autre_artistes.Fondation Zinsou');
+});
+
+Route::get('/HCREA ONG', function () {
+    return view('autre_artistes.HCREA ONG');
+});
+Route::get('/OKUTA1', function () {
+    return view('autre_artistes.OKUTA1');
+});
+Route::get('/Tchif', function () {
+    return view('autre_artistes.Tchif');
+});
+
+Route::get('/ARTAZIZA', function () {
+    return view('autre_artistes.ARTAZIZA');
+});
+
+Route::get('/Charly', function () {
+    return view('autre_artistes.Charly');
+});
+
+Route::get('/Galerie Djikou', function () {
+    return view('autre_artistes.Galerie Djikou');
+});
+
+Route::get('/Galerie Girot', function () {
+    return view('autre_artistes.Galerie Girot');
+});
+
+Route::get('/Louvre', function () {
+    return view('autre_artistes.Louvre');
+});
+Route::get('/Saint-Augustin', function () {
+    return view('autre_artistes.Saint-Augustin');
+});
+
+Route::get('/Richesse Pierre', function () {
+    return view('autre_artistes.Richesse Pierre');
+});
+
+Route::get('/Grande Place', function () {
+    return view('autre_artistes.Grande Place');
+});
+
+Route::get('/Hibiscus', function () {
+    return view('autre_artistes.Hibiscus');
+});
+
+
+Route::get('/Institut français', function () {
+    return view('autre_artistes.Institut français');
+});
+
+
+Route::get('/INMAAC', function () {
+    return view('autre_artistes.INMAAC');
+});
+
+
+Route::get('/IRSBACCOM', function () {
+    return view('autre_artistes.IRSBACCOM');
+});
+
+Route::get('/JPN', function () {
+    return view('autre_artistes.JPN');
+});
+Route::get('/MPTP', function () {
+    return view('autre_artistes.MPTP');
+});
+
+Route::get('/Diasporas', function () {
+    return view('autre_artistes.Diasporas');
+});
+Route::get('/Musée d’Adjarra', function () {
+    return view('autre_artistes.Musée d’Adjarra');
+});
+Route::get('/Silva', function () {
+    return view('autre_artistes.Silva');
+});
+
+Route::get('/Sènou Adandé', function () {
+    return view('autre_artistes.Sènou Adandé');
+});
+Route::get('/Musée ethnographique', function () {
+    return view('autre_artistes.Musée ethnographique');
+});
+Route::get('/Abomey', function () {
+    return view('autre_artistes.Abomey');
+});
+
+Route::get('/Ouidah', function () {
+    return view('autre_artistes.Ouidah');
+});
+
+Route::get('/Musée Honmé', function () {
+    return view('autre_artistes.Musée Honmé');
+});
+
+Route::get('/Musée régional', function () {
+    return view('autre_artistes.Musée régional');
+});
+
+Route::get('/Musée Zinsou', function () {
+    return view('autre_artistes.Musée Zinsou');
+});
+Route::get('/Office', function () {
+    return view('autre_artistes.Office');
+});
+
+Route::get('/Ouadada', function () {
+    return view('autre_artistes.Ouadada');
+});
+Route::get('/Unik', function () {
+    return view('autre_artistes.Unik');
+});
+Route::get('/Villa KARO', function () {
+    return view('autre_artistes.Villa KARO');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

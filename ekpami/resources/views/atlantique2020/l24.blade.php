@@ -29,7 +29,7 @@
     <small>Né en 1988 </small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Barakfoul/da.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Barakfoul/drr.PNG" alt="">
   </div>
 
 </div>

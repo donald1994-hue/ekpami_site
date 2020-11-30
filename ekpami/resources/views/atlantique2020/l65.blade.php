@@ -43,7 +43,7 @@
     <small>Né en 1971</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Nathaole/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Nathaole/auteur66.PNG" alt="" style="">
   </div>
 
 </div>

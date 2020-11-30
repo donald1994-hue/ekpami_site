@@ -43,7 +43,7 @@
     <small>Né en 1968</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/isaac dossou/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/isaac dossou/auteur42.PNG" alt="" style="">
   </div>
 
 </div>

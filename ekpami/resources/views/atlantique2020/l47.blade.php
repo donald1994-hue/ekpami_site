@@ -44,7 +44,7 @@
     <small>Né en 1991</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/legba hermione/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/legba hermione/auteur47.PNG" alt="" style="">
   </div>
 
 </div>

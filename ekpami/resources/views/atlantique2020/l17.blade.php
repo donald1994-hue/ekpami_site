@@ -6,18 +6,18 @@
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Daniel Araye/a1.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/Daniel Araye/a1.PNG"  width="250px"  alt="">
         <small style="float:left; ">Parole du Seigneur</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Daniel Araye/a2.png"  width="300PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Daniel Araye/a2.PNG"  width="300PX"   alt=""><br>
         <small style="float:left; ">Naissance de Jésus</small>
       </div>
       <div class="">
-        <img src="../resources/img/atlantique2020/Daniel Araye/a3.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Daniel Araye/a3.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; ">Avènement de la parole aux Africains</small>
       </div>
     </div>

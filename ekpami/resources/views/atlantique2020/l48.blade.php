@@ -31,11 +31,6 @@
 
 
     </div>
-   
-
-  
-
-    
 
 
   </div>
@@ -48,7 +43,7 @@
     <small>Né en 1988</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/GBAGUIDI Ulrich/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/GBAGUIDI Ulrich/auteur49.PNG" alt="" style="">
   </div>
 
 </div>

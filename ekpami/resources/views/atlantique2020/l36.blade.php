@@ -36,7 +36,7 @@
     <small>Né en 1994</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Dieu de Grace/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Dieu de Grace/auteur37.PNG" alt="" style="">
   </div>
 
 </div>

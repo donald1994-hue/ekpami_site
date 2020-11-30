@@ -43,7 +43,7 @@
     <small>Née en 1996</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/YEHOUENOU AGATHE/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/YEHOUENOU AGATHE/auteur79.PNG" alt="" style="">
   </div>
 
 </div>

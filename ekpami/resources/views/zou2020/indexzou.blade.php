@@ -33,7 +33,7 @@
         <li> <a href="Gladys" style="text-decoration: none; ">GLADYS MONLEME  </a> </li>
         <li> <a href="Lionel Pede" style="text-decoration: none; ">LIONEL PEDE </a> </li>
         <li> <a href="Réjina" style="text-decoration: none; ">REJINA TOKOUDAGBA   </a> </li>
-        <li> <a href="Edouard" style="text-decoration: none; ">EDOUARD VODOUMBO</a> </li>
+        <li> <a href="Edouard Vodoumbo" style="text-decoration: none; ">EDOUARD VODOUMBO</a> </li>
 
 
       </ul>

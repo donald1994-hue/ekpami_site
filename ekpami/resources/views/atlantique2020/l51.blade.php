@@ -38,7 +38,7 @@
     <small>Né en 1997</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/HOUNKANRIN Iris/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/HOUNKANRIN Iris/auteur53.PNG" alt="" style="">
   </div>
 
 </div>

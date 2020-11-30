@@ -57,7 +57,7 @@
     <small>Née en 1987</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/YAOVI NATO Glwadys/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/YAOVI NATO Glwadys/auteur78.PNG" alt="" style="">
   </div>
 
 </div>

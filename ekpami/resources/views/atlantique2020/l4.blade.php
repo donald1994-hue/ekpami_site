@@ -5,14 +5,14 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Hylarion S. Adandé/a2.png"  width="150PX" height="500px"  alt=""><br>
+        <img src="../resources/img/atlantique2020/Hylarion S. Adandé/a2.PNG"  width="150PX" height="500px"  alt=""><br>
         <small style="float:left; ">La vie du Bubedra </small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Hylarion S. Adandé/a1.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/Hylarion S. Adandé/a1.PNG"  width="250px"  alt="">
         <small style="float:left; ">Tata Otchaou </small>
       </div>
 

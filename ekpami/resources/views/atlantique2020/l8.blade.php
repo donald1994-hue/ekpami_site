@@ -29,7 +29,7 @@
     <small>Né en 1991 </small>
   </div>
   <div class="">
-      <img src="../resources/img/atlantique2020/AGLINGO Mahougnon Ninon/profil.jpg" alt="" style="float: right; width: 90px;">
+      <img src="../resources/img/atlantique2020/AGLINGO Mahougnon Ninon/auteur.png" alt="" style="float: right;">
   </div>
 
 </div>

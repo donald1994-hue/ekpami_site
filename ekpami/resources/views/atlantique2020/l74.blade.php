@@ -46,7 +46,7 @@
     <small>Né en 1992</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/CHETANGNI tiburs/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/CHETANGNI tiburs/auteur75.PNG" alt="" style="">
   </div>
 
 </div>

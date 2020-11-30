@@ -39,7 +39,7 @@
     <small>Né en 1984</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/BOKO Camille/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/BOKO Camille/auteur.png" alt="" style="">
   </div>
 
 </div>

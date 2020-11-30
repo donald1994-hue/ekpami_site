@@ -5,18 +5,18 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Adeladja/a1.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Adeladja/a1.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; "> Comme cheveu dans la soupe</small>
       </div>
       <div class="">
-        <img src="../resources/img/atlantique2020/Adeladja/a2.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Adeladja/a2.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; "> Domination républicaine</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Adeladja/a3.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/Adeladja/a3.PNG"  width="250px"  alt="">
         <small style="float:left; ">Compatibilité amorale</small>
       </div>
 

@@ -36,7 +36,7 @@
     <small>Née en 1995</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Willy/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/Willy/auteur81.PNG" alt="" style="">
   </div>
 
 </div>

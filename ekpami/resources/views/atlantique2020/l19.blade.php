@@ -6,18 +6,18 @@
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Blythe Atéménou/a1.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/Blythe Atéménou/a1.PNG"  width="250px"  alt="">
         <small style="float:left; ">Le silence de la femme</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Blythe Atéménou/a2.png"  width="200PX" height="250px"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Blythe Atéménou/a2.PNG"  width="200PX" height="250px"   alt=""><br>
         <small style="float:left; ">Le singe</small>
       </div>
       <div class="">
-        <img src="../resources/img/atlantique2020/Blythe Atéménou/a3.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Blythe Atéménou/a3.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; ">Le commerce portuaire</small>
       </div>
     </div>
@@ -33,7 +33,7 @@
     <small>Né en 1996 </small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Blythe Atéménou/ds.PNG" alt="" style="">
+    <img src="../resources/img/atlantique2020/Blythe Atéménou/ds.png" alt="" style="">
   </div>
 
 </div>

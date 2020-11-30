@@ -6,12 +6,12 @@
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/AISSO Eliane ELIANOSE/a3.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/AISSO Eliane ELIANOSE/a3.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; "> Panorama 21, Ati okuku de imonle (De l’invisible au visible) Studio d’art
           comtemporainde Fresnoy, Installation 2019 </small>
       </div>
       <div class="">
-        <img src="../resources/img/atlantique2020/AISSO Eliane ELIANOSE/a2.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/AISSO Eliane ELIANOSE/a2.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; "> Entre deux mondes</small>
       </div>
     </div>
@@ -33,7 +33,7 @@
     <small>Née en 1989 </small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/AISSO Eliane ELIANOSE/photo.jpg" alt="" >
+    <img src="../resources/img/atlantique2020/AISSO Eliane ELIANOSE/auteur.png" alt="" >
   </div>
 
 </div>

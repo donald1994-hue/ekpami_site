@@ -5,7 +5,7 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/George Adeogba/a1.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/George Adeogba/a1.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; "> «La révolution et les révolutions»..! 2016, contribution à la Biennale de
 Shanghai. En collaboration avec © Stephan Köhler © Georges Adéagbo </small>
       </div>
@@ -13,7 +13,7 @@ Shanghai. En collaboration avec © Stephan Köhler © Georges Adéagbo </small>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/George Adeogba/a2.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/George Adeogba/a2.PNG"  width="250px"  alt="">
         <small style="float:left; ">«La mission et les missionnaires»..! 2011, © Georges Adéagbo
 Solo show à MUSAC, Leòn, Spain. Collection </small>
       </div>

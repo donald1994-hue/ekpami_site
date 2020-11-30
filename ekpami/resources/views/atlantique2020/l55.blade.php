@@ -8,13 +8,13 @@
     <div class="col-md-6">
 
         <div class="">
-            <img src="../resources/img/atlantique2020/Hounzounkin/img1.png"  width="250PX"    alt=""><br>
+            <img src="../resources/img/atlantique2020/Hounzounkin/h4.PNG"  width="200PX"    alt=""><br>
             <small style="float:left; ">La délivrance</small>
         </div>
 
         
         <div class="">
-            <img src="../resources/img/atlantique2020/Hounzounkin/img2.png"  width="200PX"    alt=""><br>
+            <img src="../resources/img/atlantique2020/Hounzounkin/h2.PNG"  width="200PX"    alt=""><br>
             <small style="float:left; ">La clé du bonheur</small>
         </div>
 
@@ -23,7 +23,11 @@
     <div class="col-md-6">
      
       <div class="">
-          <img src="../resources/img/atlantique2020/Hounzounkin/IMG4.png"  width="250PX"    alt=""><br>
+          <img src="../resources/img/atlantique2020/Hounzounkin/h1.PNG"  width="200PX"    alt=""><br>
+          <small style="float:left; ">Ittinéraire du bonheur</small>
+      </div>
+      <div class="">
+          <img src="../resources/img/atlantique2020/Hounzounkin/h3.PNG"  width="200PX"    alt=""><br>
           <small style="float:left; ">Ittinéraire du bonheur</small>
       </div>
 

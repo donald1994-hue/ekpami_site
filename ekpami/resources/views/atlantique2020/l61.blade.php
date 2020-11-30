@@ -20,6 +20,7 @@
           <img src="../resources/img/atlantique2020/DOTO Kuassi/img2.jpg"  width="250PX"    alt=""><br>
           <small style="float:left; "> La traversée du Mutisme</small>
       </div>
+      <br><br>
       <div class="">
           <img src="../resources/img/atlantique2020/DOTO Kuassi/img3.jpg"  width="250PX"    alt=""><br>
           <small style="float:left; "> Sans titre</small>
@@ -38,7 +39,7 @@
     <small>Né en 1988</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/DOTO Kuassi/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/DOTO Kuassi/auteur62.PNG" alt="" style="">
   </div>
 
 </div>

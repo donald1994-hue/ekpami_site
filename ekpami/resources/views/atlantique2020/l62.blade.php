@@ -47,7 +47,7 @@
     <small>Né en 1996</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Loko Sylvanus/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/Loko Sylvanus/auteur63.PNG" alt="" style="">
   </div>
 
 </div>

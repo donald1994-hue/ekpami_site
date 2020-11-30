@@ -37,7 +37,7 @@
     <small>Né en 1975</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/GBEHOUN Laurent/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/GBEHOUN Laurent/auteur50.PNG" alt="" style="">
   </div>
 
 </div>

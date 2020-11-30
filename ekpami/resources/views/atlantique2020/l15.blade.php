@@ -6,7 +6,7 @@
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Laureine Amoussou-Padonou/a1.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Laureine Amoussou-Padonou/a1.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; ">L’hospitalité </small>
       </div>
     </div>
@@ -14,7 +14,7 @@
     <div class="col-md-6">
 
       <div class="">
-        <img src="../resources/img/atlantique2020/Laureine Amoussou-Padonou/a2.png"  width="250PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Laureine Amoussou-Padonou/a2.PNG"  width="250PX"   alt=""><br>
         <small style="float:left; ">L’identité</small>
       </div>
     </div>

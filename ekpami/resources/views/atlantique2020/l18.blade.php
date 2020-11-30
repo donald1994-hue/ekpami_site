@@ -6,18 +6,18 @@
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Eugène Coffi Atchotin/a1.png"  width="300px"  alt="">
+        <img src="../resources/img/atlantique2020/Eugène Coffi Atchotin/a1.PNG"  width="300px"  alt="">
         <small style="float:left; ">Hommage à Gnonas Pedro</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Eugène Coffi Atchotin/a2.png"  width="210PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Eugène Coffi Atchotin/a2.PNG"  width="210PX"   alt=""><br>
         <small style="float:left; ">Les ingénieurs de l’Univers</small>
       </div>
       <div class="">
-        <img src="../resources/img/atlantique2020/Eugène Coffi Atchotin/a3.png"  width="200PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/Eugène Coffi Atchotin/a3.PNG"  width="200PX"   alt=""><br>
         <small style="float:left; ">La genèse de la vie</small>
       </div>
     </div>

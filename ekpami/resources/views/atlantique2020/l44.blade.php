@@ -20,7 +20,7 @@
         <small style="float:left; ">Entente pour l’Unité Africaine, 2015, Installation</small>
     </div>
 
-      
+      <br><br>
     <div class="">
         <img src="../resources/img/atlantique2020/FADOHAN mozard/1.jpg"  width="250PX"    alt=""><br>
         <small style="float:left; ">Mystérieuse recherche de fagots</small>
@@ -44,7 +44,7 @@
     <small>Né en 1979</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/FADOHAN mozard/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/FADOHAN mozard/auteur45.PNG" alt="" style="">
   </div>
 
 </div>

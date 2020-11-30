@@ -11,6 +11,7 @@
             <img src="../resources/img/atlantique2020/winsou josiane florida/img1.png"  width="250PX"    alt=""><br>
             <small style="float:left; ">L’Espérance </small>
       </div>
+      <BR><br>
       <div class="">
             <img src="../resources/img/atlantique2020/winsou josiane florida/img2.png"  width="250PX"    alt=""><br>
             <small style="float:left; ">L’Espérance </small>
@@ -27,7 +28,7 @@
             <img src="../resources/img/atlantique2020/winsou josiane florida/img3.png"  width="250PX"    alt=""><br>
             <small style="float:left; ">Rayons d’espoir</small>
       </div>
-
+  <br><br>
       <div class="">
             <img src="../resources/img/atlantique2020/winsou josiane florida/img4.png"  width="250PX"    alt=""><br>
             <small style="float:left; ">Rayons d’espoir</small>
@@ -46,7 +47,7 @@
     <small>Née en 1999</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/winsou josiane florida/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/winsou josiane florida/auteur82.PNG" alt="" style="">
   </div>
 
 </div>

@@ -49,7 +49,7 @@
     <small>Née en 1974</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Ponce Zannou/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Ponce Zannou/auteur84.PNG" alt="" style="">
   </div>
 
 </div>

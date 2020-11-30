@@ -5,7 +5,7 @@
   <div class="row">
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/a1.png"  width="200PX"   alt=""><br>
+        <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/a1.PNG"  width="200PX"   alt=""><br>
         <small style="float:left; "> Le regard de la perle rare</small>
       </div>
 
@@ -13,7 +13,7 @@
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/a2.png"  width="180px"  alt="">
+        <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/a2.PNG"  width="180px"  alt="">
         <small style="float:left; ">Mon identité saccagée</small>
       </div>
 
@@ -21,7 +21,7 @@
 
     <div class="col-md-4">
       <div class="">
-        <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/a3.png"  width="180px"  alt="">
+        <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/a3.PNG"  width="180px"  alt="">
         <small style="float:left; ">Mon stylo</small>
       </div>
 
@@ -37,7 +37,7 @@
     <small>Né en 1988</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/akm.jpg" alt="" style="float: right; width: 80px;">
+    <img src="../resources/img/atlantique2020/AGBENOMBA kouessi myckael OK/auteur.png" alt="" style="float: right;">
   </div>
 
 </div>

@@ -42,7 +42,7 @@
     <small>Né en 1970</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/ZOUNYEPKE Séraphin/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/ZOUNYEPKE Séraphin/auteur.png" alt="" style="">
   </div>
 
 </div>

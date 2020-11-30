@@ -41,7 +41,7 @@
     <small>Né en 1996</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/MEHINTO hélène pelagie/auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/MEHINTO hélène pelagie/auteur64.PNG" alt="" style="">
   </div>
 
 </div>

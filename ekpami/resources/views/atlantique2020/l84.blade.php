@@ -15,7 +15,7 @@
   </div>
 
     
-  <div class="col-md-4">
+  <div class="col-md-4 pl-4">
 
       <div class="">
             <img src="../resources/img/atlantique2020/ZINKPE/img2.png"  width="100PX"    alt=""><br>

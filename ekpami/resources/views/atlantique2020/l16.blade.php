@@ -13,7 +13,7 @@
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/André Atsine/a3.jpg"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/André Atsine/a3.JPG"  width="250px"  alt="">
         <small style="float:left; ">Connexion</small>
       </div>
     </div>
@@ -21,7 +21,7 @@
     <div class="col-md-6">
 
       <div class="">
-        <img src="../resources/img/atlantique2020/André Atsine/a2.jpg"  width="250PX" height="220px"  alt=""><br>
+        <img src="../resources/img/atlantique2020/André Atsine/a2.jpg"  width="250PX" height="230px"  alt=""><br>
         <small style="float:left; ">Autoportrait Bidossesssi</small>
       </div>
     </div>

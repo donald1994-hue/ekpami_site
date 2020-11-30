@@ -5,14 +5,14 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Philippe Abayi/a1.png"  width="250PX" height="px"  alt=""><br>
+        <img src="../resources/img/atlantique2020/Philippe Abayi/a1.PNG"  width="250PX" height="px"  alt=""><br>
         <small style="float:left; ">Femme versant de l’eau</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atlantique2020/Philippe Abayi/a2.png"  width="250px"  alt="">
+        <img src="../resources/img/atlantique2020/Philippe Abayi/a2.PNG"  width="250px"  alt="">
         <small style="float:left; ">La puissance de l’esprit</small>
       </div>
 

@@ -38,7 +38,7 @@
     <small>Né en 1979</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Didier Kpassassi/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Didier Kpassassi/auteur61.PNG" alt="" style="">
   </div>
 
 </div>

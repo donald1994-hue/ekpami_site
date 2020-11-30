@@ -24,7 +24,7 @@ h4,h5,h6{
         </div>
         
         <div class='col-md-6'>
-        <p>Domaine : Art culture, religion, tourisme et développement loca<br>Activité : Création et aménagement des espaces <br>Ressources : Fonds propres, cotisations des membres,  subventions  et  prestations  diverses                                                                       <br>
+        <p>Domaine : Art culture, religion, tourisme et développement loca<br>Activité : Création et aménagement des espaces <br>Ressources : Fonds propres, cotisations des membres,  subventions  et prestations diverses                                                                       <br>
          Réseau professionnel : Maison de la société civile, acteurs et entreprises culturels privés et publiques<br>Financement : DFAC<br>Contact : Félix Komi Agossa<br>Tél : +229 64 25 98 25 / 95 24 43 98
       
         </p>

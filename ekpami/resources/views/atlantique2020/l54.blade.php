@@ -39,7 +39,7 @@
     <small>Né en 1978</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/HOUNTONDJI Gérard/A.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/HOUNTONDJI Gérard/auteur55.PNG" alt="" style="">
   </div>
 
 </div>

@@ -36,7 +36,7 @@
     <small>Né en 1992</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Jean-Louis Odjo/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Jean-Louis Odjo/auteur68.PNG" alt="" style="">
   </div>
 
 </div>

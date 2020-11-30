@@ -31,10 +31,7 @@
             <small style="float:left; ">sans titre</small>
       </div>
 
-      <div class="">
-            <img src="../resources/img/atlantique2020/Zanfanhouédé/img4.png"  width="100PX"    alt=""><br>
-            <small style="float:left; ">sans titre</small>
-      </div>
+      
        
     </div>
 
@@ -49,7 +46,7 @@
     <small>Née en 1991</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/Zanfanhouédé/auteur.png" alt="" style="">
+    <img src="../resources/img/atlantique2020/Zanfanhouédé/auteur83.PNG" alt="" style="">
   </div>
 
 </div>

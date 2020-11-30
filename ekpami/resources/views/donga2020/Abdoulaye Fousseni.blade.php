@@ -4,32 +4,22 @@
 <div class="container mt-4">
   <div class="row">
 
-
-  <div class="col-md-4">
-
-      <div class="">
-            <img src="../resources/img/DONGA2020/Abdoulaye Fousseni/img1.PNG"  width="200PX"    alt=""><br>
-            <small style="float:left; ">L’élévation</small>
-      </div>
-
-  </div>
-
     
 
-    <div class="col-md-4">
+    <div class="col-md-6">
 
       <div class="">
-            <img src="../resources/img/DONGA2020/Abdoulaye Fousseni/img2.PNG"  width="200PX"    alt=""><br>
-            <small style="float:left; ">La survie</small>
+            <img src="../resources/img/DONGA2020/Abdoulayé Fousseni/img1.PNG"  width="300PX"    alt=""><br>
+            <small style="float:left; ">Danse traditionnelle</small>
       </div>
 
    </div>
 
-   <div class="col-md-4">
+   <div class="col-md-6">
 
         <div class="">
-            <img src="../resources/img/DONGA2020/Abdoulaye Fousseni/img3.PNG"  width="200PX"    alt=""><br>
-            <small style="float:left; ">Le chant</small>
+            <img src="../resources/img/DONGA2020/Abdoulayé Fousseni/img2.PNG"  width="300PX"    alt=""><br>
+            <small style="float:left; ">Coutume Africaine</small>
         </div>
 
     </div>
@@ -42,11 +32,11 @@
 <div class=" identités pt-4 mr-4 ml-4">
 
   <div class=" identities">
-    <h2>Roger Boni</h2>
+    <h2>Abdoulaye Fousseni  </h2>
     <small>Né en 1968 </small>
   </div>
   <div class="">
-    <img src="../resources/img/DONGA2020/Abdoulaye Fousseni/auteur.PNG" alt="" style="">
+    <img src="../resources/img/DONGA2020/Abdoulayé Fousseni/auteur.PNG" alt="" style="">
   </div>
 
 </div>

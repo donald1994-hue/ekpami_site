@@ -30,7 +30,7 @@
     <small>Né en 1962 </small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/AVOKPO/p.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/AVOKPO/auteur.png" alt="" style="">
   </div>
 
 </div>

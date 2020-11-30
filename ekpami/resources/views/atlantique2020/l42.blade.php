@@ -43,7 +43,7 @@
     <small>Né en 1996</small>
   </div>
   <div class="">
-    <img src="../resources/img/atlantique2020/BALLO Yannick//auteur.jpg" alt="" style="">
+    <img src="../resources/img/atlantique2020/BALLO Yannick//auteur43.PNG" alt="" style="">
   </div>
 
 </div>
