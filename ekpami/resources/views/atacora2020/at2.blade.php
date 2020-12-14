@@ -8,19 +8,24 @@
    <div class="col-md-6 pb-4">
 
       <div class="">
-              <img src="../resources/img/atacora2020/Epaphras/img1.PNG"  width="300PX"    alt=""><br>
-              <small style="float:left; ">La forêt des murmures</small>
+              <img src="../resources/img/atacora2020/BATIA IBRAÏMA/img1.png"  width="300PX"    alt=""><br>
+              <small style="float:left; ">La vérité et le mensonge</small>
       </div>
-
+      <div class="">
+              <img src="../resources/img/atacora2020/BATIA IBRAÏMA/img3.png"  width="250PX"    alt=""><br>
+              <small style="float:left; ">L’espoir</small>
+      </div>
 
    </div>
 
     <div class="col-md-6 pb-4">
 
       <div class="">
-              <img src="../resources/img/atacora2020/Epaphras/img2.PNG"  width="300PX"    alt=""><br>
-              <small style="float:left; ">Sans titre</small>
+              <img src="../resources/img/atacora2020/BATIA IBRAÏMA/img2.png"  width="250PX"    alt=""><br>
+              <small style="float:left; ">Tresse</small>
       </div>
+
+     
 
     </div>
 
@@ -36,7 +41,7 @@
     </div>
 
     <div class="col-md-6">
-      <img src="" alt="" style="float: right; width: 80px;">
+      <img src="../resources/img/atacora2020/BATIA IBRAÏMA/auteur.png" alt="" style="float: right; width: 80px;">
     </div>
     <div class="col-md-6 mt-4">
       <p>« La présence des matières premières est une constante

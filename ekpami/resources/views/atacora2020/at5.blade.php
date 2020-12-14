@@ -9,14 +9,14 @@
         <small style="float:left; ">Les fervents athlètes </small>
       </div>
       <div class="">
-        <img src="../resources/img/atacora2020/TCHENTCHA Yeropa/a6.png"  width="250px" height="px"  alt=""><br>
+        <img src="../resources/img/atacora2020/TCHENTCHA Yeropa/a6.PNG"  width="250px" height="px"  alt=""><br>
         <small style="float:left; ">L’homme heureux</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/TCHENTCHA Yeropa/a3.jpg"  width="250px"  alt="">
+        <img src="../resources/img/atacora2020/TCHENTCHA Yeropa/a3.jpg"  width="300px"  alt="">
         <small style="float:left; ">Résident de la Pendjari</small>
       </div>
     </div>
@@ -31,7 +31,7 @@
     </div>
 
     <div class="col-md-6">
-      <img src="../resources/img/atacora2020/TCHENTCHA Yeropa/TCHENTCHA Yeropa.png" alt="" style="float: right; width: 80px;">
+      <img src="../resources/img/atacora2020/TCHENTCHA Yeropa/auteur.png" alt="" style="float: right; width:140px;">
     </div>
     <div class="col-md-6 mt-4">
             <p>Qu’il dépeigne la vie sociale de sa contrée ou met en garde

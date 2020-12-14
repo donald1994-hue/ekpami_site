@@ -5,21 +5,21 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/TOUNKA Moussiliou/a1.png"  width="250px" height="px"  alt=""><br>
+        <img src="../resources/img/atacora2020/TOUNKA Moussiliou/a1.PNG"  width="300px" height="px"  alt=""><br>
         <small style="float:left; ">Divorce</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/TOUNKA Moussiliou/a2.png"  width="250px"  alt="">
+        <img src="../resources/img/atacora2020/TOUNKA Moussiliou/a2.PNG"  width="300px"  alt="">
         <small style="float:left; ">Football professionnel</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/TOUNKA Moussiliou/a3.png"  width="250px"  alt="">
+        <img src="../resources/img/atacora2020/TOUNKA Moussiliou/a3.PNG"  width="300px"  alt="">
         <small style="float:left; ">Limite de liberté</small>
       </div>
     </div>
@@ -35,7 +35,7 @@
     </div>
 
     <div class="col-md-6">
-      <img src="../resources/img/atacora2020/TOUNKA Moussiliou/p1.jpg" alt="" style="float: right; width: 80px;">
+      <img src="../resources/img/atacora2020/TOUNKA Moussiliou/auteur.png" alt="" style="float: right; width:120px;">
     </div>
     <div class="col-md-6 mt-4">
             <p>Du noir et du blanc, du rouge et du vert, les couleurs

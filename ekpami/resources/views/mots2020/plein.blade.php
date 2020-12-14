@@ -6,7 +6,7 @@
 </div>
 <div class="text" style="padding: 20px; text-align: justify;">
   <h3 style="color:red;">L’ÉTAT D’URGENCE</h3>
-<p><img src="../resources/img/repertoire2013/plein.png" class="img-fluid ml-4"  alt="Responsive image" style="float:right;" >
+<p><img src="../resources/img/HAUT/fr.png" class="img-fluid ml-4"  alt="Responsive image" style="float:right;" >
   <small><strong>Une image nous captivait. Et nous ne
 pouvions en sortir car elle résidait dans notre
 langage et il semblait ne la répéter que de

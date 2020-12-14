@@ -33,7 +33,7 @@
     </div>
 
     <div class="col-md-6">
-      <img src="../resources/img/atacora2020/a7/p1.png" alt="" style="float: right; width: 80px;">
+      <img src="../resources/img/atacora2020/a7/auteur.png" alt="" style="float: right; width: 80px;">
     </div>
     <div class="col-md-6 mt-4">
             <p>Ses sculptures grandeur nature, en bois ou ciment, sont des

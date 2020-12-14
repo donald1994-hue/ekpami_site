@@ -5,14 +5,14 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/SAMBO I. Ousmane/t1.png"  width="250px" height="320px"  alt=""><br>
+        <img src="../resources/img/atacora2020/SAMBO I. Ousmane/t1.PNG"  width="250px" height="320px"  alt=""><br>
         <small style="float:left; ">Irikpè na Dounia </small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/SAMBO I. Ousmane/t2.png"  width="250px"  alt="">
+        <img src="../resources/img/atacora2020/SAMBO I. Ousmane/t2.PNG"  width="250px"  alt="">
         <small style="float:left; ">Infanticide</small>
       </div>
     </div>

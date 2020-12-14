@@ -5,14 +5,14 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/FANDEGLA Raymond/at1.png"  width="250px" height="320px"  alt=""><br>
+        <img src="../resources/img/atacora2020/FANDEGLA Raymond/at1.PNG"  width="250px" height="320px"  alt=""><br>
         <small style="float:left; ">WIS de Thaïlande </small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/FANDEGLA Raymond/at2.png"  width="250px"  alt="">
+        <img src="../resources/img/atacora2020/FANDEGLA Raymond/at2.PNG"  width="250px"  alt="">
         <small style="float:left; ">Hiroki de Japon</small>
       </div>
     </div>
@@ -27,7 +27,7 @@
     </div>
 
     <div class="col-md-6">
-      <img src="../resources/img/atacora2020/FANDEGLA Raymond/p.jpg" alt="" style="float: right; width: 80px;">
+      <img src="../resources/img/atacora2020/FANDEGLA Raymond/auteur.png" alt="" style="float: right; width: 120px;">
     </div>
     <div class="col-md-6 mt-4">
             <p>Son savoir-faire acquis lors d’une formation de calligraphe

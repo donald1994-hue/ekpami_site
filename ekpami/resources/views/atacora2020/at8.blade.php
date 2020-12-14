@@ -5,14 +5,14 @@
   <div class="row">
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/YOKOSSI Salomon/t1.png"  width="250px" height="px"  alt=""><br>
+        <img src="../resources/img/atacora2020/YOKOSSI Salomon/img1.png"  width="200px" height="400px"  alt=""><br>
         <small style="float:left; ">Je suis à vous</small>
       </div>
     </div>
 
     <div class="col-md-6">
       <div class="">
-        <img src="../resources/img/atacora2020/YOKOSSI Salomon/t2.png"  width="250px"  alt="">
+        <img src="../resources/img/atacora2020/YOKOSSI Salomon/img2.png"  width="250px"  alt="">
         <small style="float:left; ">Nous sommes les mêmes</small>
       </div>
     </div>
@@ -28,7 +28,7 @@
     </div>
 
     <div class="col-md-6">
-      <img src="../resources/img/atacora2020/YOKOSSI Salomon/PHOTO DIDENTITE.jpg" alt="" style="float: right; width: 80px;">
+      <img src="../resources/img/atacora2020/YOKOSSI Salomon/auteur.png" alt="" style="float: right; width:120px;">
     </div>
     <div class="col-md-6 mt-4">
             <p>Agriculteur, Salomon Yokossi est un peintre autodidacte
